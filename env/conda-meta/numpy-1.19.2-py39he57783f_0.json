@@ -1,0 +1,41 @@
+{
+  "build": "py39he57783f_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2019.4,<2020.0a0",
+    "mkl-service >=2,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.19.2 py39hde55871_0",
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/Users/SunnyNie/opt/miniconda3/pkgs/numpy-1.19.2-py39he57783f_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.19.2-py39he57783f_0.conda",
+  "legacy_bz2_md5": "1657aad4f0dc029843c7f0ae577730ed",
+  "legacy_bz2_size": 21038,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/Users/SunnyNie/opt/miniconda3/pkgs/numpy-1.19.2-py39he57783f_0",
+    "type": 1
+  },
+  "md5": "6dbd65f2b3cff448024c8c51f8d4b81a",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/SunnyNie/opt/miniconda3/pkgs/numpy-1.19.2-py39he57783f_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "numpy",
+  "sha256": "47f9f5d906644b003b9d28ace241975e260ae9c79b39a5c63dbf9ece89623120",
+  "size": 22007,
+  "subdir": "osx-64",
+  "timestamp": 1607448336964,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/numpy-1.19.2-py39he57783f_0.conda",
+  "version": "1.19.2"
+}
