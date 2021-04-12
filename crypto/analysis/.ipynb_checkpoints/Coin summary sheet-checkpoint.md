@@ -52,6 +52,22 @@ Include for each coin:
 ## IOTA (MIOTA)
 
 ## Terra (LUNA)
+- Mint stable coins pegged to various fiat currencies while being decentralized. 
+- Built using Cosmos SDK, less decentralized than other blockchains. 
+- Burn Luna to print UST, or burn UST for Luna, balance by arbitrage. 
+
+Tokenomics: Private sale and no public ICO. 10mil-350mil sold. Luna should have max supply at 1 billion. Unknown genesis supply. 
+
+Luna for staking on Terra blockchain. Yields 1.5% annual supply due to low fees. 
+
+Demand for UST seems to come from Mirror protocal and Binance CeDefi. Mirror protocal allows minting tokens pegged to stocks, etc, requires UST as collatoral. 
+
+High intropability. 
+
+Negatives: 
+- Probably shady stuff going on with LUNA tokenomics
+- 100 ts/s too slow to become backbone of global payment system
+
 
 ## Cryto.com coin (CRO)
 
