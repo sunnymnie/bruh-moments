@@ -59,11 +59,43 @@ Pitch:
 2017: First ever atomic-swaps across mainnets: atomic-swap is crypto-graph signature on 2 chains or more, without 3rd parties, taht allow transfer of value across blockchains.
 
 ETH and BTC are layer 1: actual blockchain that supports communication and transactions. 
-Layer 0: not payment rail, but hold coordinate communication across blockchains and act as ultimate settlement layer. 
+Layer 0: not payment rail, but hold the blockchains and coordinate communication across blockchains and act as ultimate settlement layer. 
+But that is only one way to get interoperability, other methods:
+- plasma chains
+- state channels
+- Matic, layer 2: own blockchain and concensus layer, faster less secure ethereum for games that settles to ethereum. 
 
+Separate bitcoin's asset from it's protocol:\
 Wrapped bitcoin--trade bitcoin on Ethereum: around 5 billion worth of Bitcoin on ethereum. 
+- Bitcoin optimized for security and stability, but at odds with usability/efficiency. Without other layers and other chains, immense pressure for bitcoin to change, which bitcoin maximalists don't want. 
 
-Start at 30:00, real end at 32:32
+## Bitcoin forks, again
+- From game theory, hardfork of any coin that uses same consensus protocol, such as sha 256, renders the smaller chain unstable as larger chain can attack it. 
+- If miner has 51% on Bitcoin, economic incentives will not be to attack bitcoin, as earned bitcoin less than bitcoin and mining-rig depreciation from such attack. However, miner can attack bitcoin-cash and not have any 'skin-in-the-game'. 
+- Making bitcoin more efficient shouldn't be done through hardforks, but through other protocals and tokens which have different economic incentives. Wrapping bitcoin on ether to have less transfer fees (though I'd want to see on algorand or cosmos of something even cheaper)
+
+
+## Asset diffrentiator--why not replace eth with btc?
+- If features not the diffrentiator
+    - Ex: If privacy not diffrentiator. If can get Zcash level anonymity with bitcoin where possible through some future atomic-swap where Zcash can wrap bitcoin. 
+    - Question: In what possible scenario will we need multiple different assets? Answers:
+        - Different monetary policy. Ex: different countries or communities wanting asset with different inflation rates than bitcoin. 
+        - Regulatory status. If new blockchain built for sole purpose of (1) is not anonymous, and (2) cannot be atomic-swapped onto other blockchains for anonymous payments, governments may force existence of this blockchain over others. 
+
+## Defi
+- As of now, highly speculative. Though had super growth, has also suffered through numerous hacks. Wouldn't recommend touching defi for 4% annual return by providing liquidity or something, only if reward outweighs risk, which Ari floated a 40% annual return. 
+
+## Bitcoin ultimate settlement layer?
+- Iran and NK forbidden from SWIFT
+- Setting transactions between companies in different jurisdictions (ex China and US) via BTC chain?
+
+One line summary: Like the internet realization in 1993: it's going to be a mesh of things you can't even predict. Future cypto-currencies will be a mesh of ... things ... that you can't even predict. 
+
+Start at 45:00
+
+
+
+
 
 
 
