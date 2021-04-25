@@ -1,0 +1,124 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "pillow",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/Users/SunnyNie/opt/miniconda3/pkgs/pyscreeze-0.1.27-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/PyScreeze-0.1.27.dist-info/AUTHORS.txt",
+    "lib/python3.9/site-packages/PyScreeze-0.1.27.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/PyScreeze-0.1.27.dist-info/LICENSE.txt",
+    "lib/python3.9/site-packages/PyScreeze-0.1.27.dist-info/METADATA",
+    "lib/python3.9/site-packages/PyScreeze-0.1.27.dist-info/RECORD",
+    "lib/python3.9/site-packages/PyScreeze-0.1.27.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/PyScreeze-0.1.27.dist-info/WHEEL",
+    "lib/python3.9/site-packages/PyScreeze-0.1.27.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/PyScreeze-0.1.27.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/pyscreeze/__init__.py",
+    "lib/python3.9/site-packages/pyscreeze/__pycache__/__init__.cpython-39.pyc"
+  ],
+  "fn": "pyscreeze-0.1.27-pyhd8ed1ab_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/SunnyNie/opt/miniconda3/pkgs/pyscreeze-0.1.27-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "eae091095fff89492e607059ce506d27",
+  "name": "pyscreeze",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/SunnyNie/opt/miniconda3/pkgs/pyscreeze-0.1.27-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/PyScreeze-0.1.27.dist-info/AUTHORS.txt",
+        "path_type": "hardlink",
+        "sha256": "d50d7f0264c483528a32be4c2f80e52d7615e727dc15892cb6cfc734ecc1d0ee",
+        "sha256_in_prefix": "d50d7f0264c483528a32be4c2f80e52d7615e727dc15892cb6cfc734ecc1d0ee",
+        "size_in_bytes": 923
+      },
+      {
+        "_path": "site-packages/PyScreeze-0.1.27.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/PyScreeze-0.1.27.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "5dca4513753d9354b473937c4dac6bddafcb5e7953e26a6729fe1e26eec45177",
+        "sha256_in_prefix": "5dca4513753d9354b473937c4dac6bddafcb5e7953e26a6729fe1e26eec45177",
+        "size_in_bytes": 1505
+      },
+      {
+        "_path": "site-packages/PyScreeze-0.1.27.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "59f4a85457b8b37a3e55f1838e671ce1318da88620e205fddad4aab525b0ddee",
+        "sha256_in_prefix": "59f4a85457b8b37a3e55f1838e671ce1318da88620e205fddad4aab525b0ddee",
+        "size_in_bytes": 7933
+      },
+      {
+        "_path": "site-packages/PyScreeze-0.1.27.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4dfb2e1091d849aeaf33857040fba5a9af520f3d1393cff6bf0b5cb665aa6397",
+        "sha256_in_prefix": "4dfb2e1091d849aeaf33857040fba5a9af520f3d1393cff6bf0b5cb665aa6397",
+        "size_in_bytes": 915
+      },
+      {
+        "_path": "site-packages/PyScreeze-0.1.27.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/PyScreeze-0.1.27.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/PyScreeze-0.1.27.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "44de7017e969bc5f56b1392f413a348ba0433359ab2006b4347c6e3b170dbf19",
+        "sha256_in_prefix": "44de7017e969bc5f56b1392f413a348ba0433359ab2006b4347c6e3b170dbf19",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/PyScreeze-0.1.27.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "1311dee0b5644150d870cc70b093131f4d651f293818bcd1c623efe211834630",
+        "sha256_in_prefix": "1311dee0b5644150d870cc70b093131f4d651f293818bcd1c623efe211834630",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/pyscreeze/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "299941bb67480f4272b1ec2a9da03ba5dfa734d977beff1a2c23e0ac96902d2d",
+        "sha256_in_prefix": "299941bb67480f4272b1ec2a9da03ba5dfa734d977beff1a2c23e0ac96902d2d",
+        "size_in_bytes": 25050
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyscreeze/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7f8f42f3a2486a48e8a64bf6a92b938b3fa66b0a3cf56d9dc49986157e5715b0",
+  "size": 16153,
+  "subdir": "noarch",
+  "timestamp": 1618749734425,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pyscreeze-0.1.27-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.1.27"
+}

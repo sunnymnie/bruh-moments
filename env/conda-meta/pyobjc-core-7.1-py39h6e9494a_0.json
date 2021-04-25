@@ -1,0 +1,626 @@
+{
+  "build": "py39h6e9494a_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39",
+    "setuptools"
+  ],
+  "extracted_package_dir": "/Users/SunnyNie/opt/miniconda3/pkgs/pyobjc-core-7.1-py39h6e9494a_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/PyObjCTools/KeyValueCoding.py",
+    "lib/python3.9/site-packages/PyObjCTools/MachSignals.py",
+    "lib/python3.9/site-packages/PyObjCTools/Signals.py",
+    "lib/python3.9/site-packages/PyObjCTools/TestSupport.py",
+    "lib/python3.9/site-packages/PyObjCTools/__pycache__/KeyValueCoding.cpython-39.pyc",
+    "lib/python3.9/site-packages/PyObjCTools/__pycache__/MachSignals.cpython-39.pyc",
+    "lib/python3.9/site-packages/PyObjCTools/__pycache__/Signals.cpython-39.pyc",
+    "lib/python3.9/site-packages/PyObjCTools/__pycache__/TestSupport.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__init__.py",
+    "lib/python3.9/site-packages/objc/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_bridges.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_bridgesupport.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_callable_docstr.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_category.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_compat.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_context.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience_mapping.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsarray.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsdata.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsdecimal.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsdictionary.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsobject.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsset.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsstring.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_convenience_sequence.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_descriptors.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_dyld.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_framework.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_lazyimport.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_locking.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_properties.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_protocols.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_pycoder.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/__pycache__/_pythonify.cpython-39.pyc",
+    "lib/python3.9/site-packages/objc/_bridges.py",
+    "lib/python3.9/site-packages/objc/_bridgesupport.py",
+    "lib/python3.9/site-packages/objc/_callable_docstr.py",
+    "lib/python3.9/site-packages/objc/_category.py",
+    "lib/python3.9/site-packages/objc/_compat.py",
+    "lib/python3.9/site-packages/objc/_context.py",
+    "lib/python3.9/site-packages/objc/_convenience.py",
+    "lib/python3.9/site-packages/objc/_convenience_mapping.py",
+    "lib/python3.9/site-packages/objc/_convenience_nsarray.py",
+    "lib/python3.9/site-packages/objc/_convenience_nsdata.py",
+    "lib/python3.9/site-packages/objc/_convenience_nsdecimal.py",
+    "lib/python3.9/site-packages/objc/_convenience_nsdictionary.py",
+    "lib/python3.9/site-packages/objc/_convenience_nsobject.py",
+    "lib/python3.9/site-packages/objc/_convenience_nsset.py",
+    "lib/python3.9/site-packages/objc/_convenience_nsstring.py",
+    "lib/python3.9/site-packages/objc/_convenience_sequence.py",
+    "lib/python3.9/site-packages/objc/_descriptors.py",
+    "lib/python3.9/site-packages/objc/_dyld.py",
+    "lib/python3.9/site-packages/objc/_framework.py",
+    "lib/python3.9/site-packages/objc/_lazyimport.py",
+    "lib/python3.9/site-packages/objc/_locking.py",
+    "lib/python3.9/site-packages/objc/_machsignals.cpython-39-darwin.so",
+    "lib/python3.9/site-packages/objc/_objc.cpython-39-darwin.so",
+    "lib/python3.9/site-packages/objc/_properties.py",
+    "lib/python3.9/site-packages/objc/_protocols.py",
+    "lib/python3.9/site-packages/objc/_pycoder.py",
+    "lib/python3.9/site-packages/objc/_pythonify.py",
+    "lib/python3.9/site-packages/pyobjc_core-7.1-py3.9-nspkg.pth",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/METADATA",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/RECORD",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/WHEEL",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/include/pyobjc-api.h",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/include/pyobjc-compat.h",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/namespace_packages.txt",
+    "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/top_level.txt"
+  ],
+  "fn": "pyobjc-core-7.1-py39h6e9494a_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/SunnyNie/opt/miniconda3/pkgs/pyobjc-core-7.1-py39h6e9494a_0",
+    "type": 1
+  },
+  "md5": "15c5cb51f95f2b666ffd8cb5554aadbd",
+  "name": "pyobjc-core",
+  "package_tarball_full_path": "/Users/SunnyNie/opt/miniconda3/pkgs/pyobjc-core-7.1-py39h6e9494a_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/PyObjCTools/KeyValueCoding.py",
+        "path_type": "hardlink",
+        "sha256": "9cafe5bc855064e7d942f07dff1ae1a3c36664dbe3a3668fa1062fcc2d875cea",
+        "sha256_in_prefix": "9cafe5bc855064e7d942f07dff1ae1a3c36664dbe3a3668fa1062fcc2d875cea",
+        "size_in_bytes": 10423
+      },
+      {
+        "_path": "lib/python3.9/site-packages/PyObjCTools/MachSignals.py",
+        "path_type": "hardlink",
+        "sha256": "c9cc476f85b31168e5a62a1ec746a7b0dd212e6aa3ec3360919b5e13fffda3de",
+        "sha256_in_prefix": "c9cc476f85b31168e5a62a1ec746a7b0dd212e6aa3ec3360919b5e13fffda3de",
+        "size_in_bytes": 1060
+      },
+      {
+        "_path": "lib/python3.9/site-packages/PyObjCTools/Signals.py",
+        "path_type": "hardlink",
+        "sha256": "ec84a9531e833afac48455b9aef39629b2d231c6c0216d8690b1dedb069f49a2",
+        "sha256_in_prefix": "ec84a9531e833afac48455b9aef39629b2d231c6c0216d8690b1dedb069f49a2",
+        "size_in_bytes": 2344
+      },
+      {
+        "_path": "lib/python3.9/site-packages/PyObjCTools/TestSupport.py",
+        "path_type": "hardlink",
+        "sha256": "12b5bf3f07244a23c6c5098f228ec53cabc29cb308969cfef84e4a05d8a91fe3",
+        "sha256_in_prefix": "12b5bf3f07244a23c6c5098f228ec53cabc29cb308969cfef84e4a05d8a91fe3",
+        "size_in_bytes": 47877
+      },
+      {
+        "_path": "lib/python3.9/site-packages/PyObjCTools/__pycache__/KeyValueCoding.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9b580333da255ca61a477ad0d6ef7a6bc45b96efd5e972a7646ae22e260345d4",
+        "sha256_in_prefix": "9b580333da255ca61a477ad0d6ef7a6bc45b96efd5e972a7646ae22e260345d4",
+        "size_in_bytes": 10874
+      },
+      {
+        "_path": "lib/python3.9/site-packages/PyObjCTools/__pycache__/MachSignals.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a1ff5eadb7d030c8a5f012f0e372244ffbd912bdbe6ab98a8f5aa981b29d41d0",
+        "sha256_in_prefix": "a1ff5eadb7d030c8a5f012f0e372244ffbd912bdbe6ab98a8f5aa981b29d41d0",
+        "size_in_bytes": 1270
+      },
+      {
+        "_path": "lib/python3.9/site-packages/PyObjCTools/__pycache__/Signals.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6bf9147bb71999bab44a9a8b678e408089f35ab59fb3b38cbaa78d2ec7caed65",
+        "sha256_in_prefix": "6bf9147bb71999bab44a9a8b678e408089f35ab59fb3b38cbaa78d2ec7caed65",
+        "size_in_bytes": 2375
+      },
+      {
+        "_path": "lib/python3.9/site-packages/PyObjCTools/__pycache__/TestSupport.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "097d547b7eeb50d95cdd1b438f8e4498da5d7889016f2593eb75c48499613a52",
+        "sha256_in_prefix": "097d547b7eeb50d95cdd1b438f8e4498da5d7889016f2593eb75c48499613a52",
+        "size_in_bytes": 34801
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3aaec897a8c21f47d9eb546a92bbdf4fce0b0ab3aaaef933547bde276f508324",
+        "sha256_in_prefix": "3aaec897a8c21f47d9eb546a92bbdf4fce0b0ab3aaaef933547bde276f508324",
+        "size_in_bytes": 2424
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc9adf1ddfe6a1a5b7e8c012ca32208402a29dbf198c222eaffa191e66f6b56f",
+        "sha256_in_prefix": "dc9adf1ddfe6a1a5b7e8c012ca32208402a29dbf198c222eaffa191e66f6b56f",
+        "size_in_bytes": 2295
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_bridges.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "32c5fa9e4bf6ea5da855c48bf3a517d2ffcc5c318b991ee7fe5346f85ee51bcd",
+        "sha256_in_prefix": "32c5fa9e4bf6ea5da855c48bf3a517d2ffcc5c318b991ee7fe5346f85ee51bcd",
+        "size_in_bytes": 1586
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_bridgesupport.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f7dd010f2184a800288f9be27a0397a2c20fc1d519074810de05d110c00d3d06",
+        "sha256_in_prefix": "f7dd010f2184a800288f9be27a0397a2c20fc1d519074810de05d110c00d3d06",
+        "size_in_bytes": 16296
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_callable_docstr.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a331b0b2c3f6e7266eced8a02fe7a51bc957473830aa23319f1a14241b95c1a8",
+        "sha256_in_prefix": "a331b0b2c3f6e7266eced8a02fe7a51bc957473830aa23319f1a14241b95c1a8",
+        "size_in_bytes": 5276
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_category.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "342b579ed540896de2261fcea006cf014310b559f1850eb835156c7fa7a36810",
+        "sha256_in_prefix": "342b579ed540896de2261fcea006cf014310b559f1850eb835156c7fa7a36810",
+        "size_in_bytes": 2686
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_compat.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "548bdc289f1932abed3b20c6c29a0730b79755c08493d0dbe561acea8c9b6d77",
+        "sha256_in_prefix": "548bdc289f1932abed3b20c6c29a0730b79755c08493d0dbe561acea8c9b6d77",
+        "size_in_bytes": 990
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_context.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1ad80e68329f56d863e91cdf3e52280560f5202d0ed55624aa46c22dd36166ac",
+        "sha256_in_prefix": "1ad80e68329f56d863e91cdf3e52280560f5202d0ed55624aa46c22dd36166ac",
+        "size_in_bytes": 1918
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f327a3e04c5c1e658af2b2e4a66a3736ad3b7186f0e422b4485d4b6eeaa1e7ee",
+        "sha256_in_prefix": "f327a3e04c5c1e658af2b2e4a66a3736ad3b7186f0e422b4485d4b6eeaa1e7ee",
+        "size_in_bytes": 3261
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience_mapping.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a7495571bfb5dc4e5ca0fddca266bda87b965dff27ccc852fa1b5a54066b533",
+        "sha256_in_prefix": "9a7495571bfb5dc4e5ca0fddca266bda87b965dff27ccc852fa1b5a54066b533",
+        "size_in_bytes": 3242
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsarray.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c4ff8be4187735bef032623486ef2af177fcdef6957da8652091a26e1cced46",
+        "sha256_in_prefix": "1c4ff8be4187735bef032623486ef2af177fcdef6957da8652091a26e1cced46",
+        "size_in_bytes": 8192
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsdata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4a01039ee59c9a59667bc99261e0a667684d62a4076082bf5d01a4a0dd2f8d0d",
+        "sha256_in_prefix": "4a01039ee59c9a59667bc99261e0a667684d62a4076082bf5d01a4a0dd2f8d0d",
+        "size_in_bytes": 1760
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsdecimal.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1dd1ac11e75b99957f2d4609116f185bc96d549d972857a56ef57eb304af8a3a",
+        "sha256_in_prefix": "1dd1ac11e75b99957f2d4609116f185bc96d549d972857a56ef57eb304af8a3a",
+        "size_in_bytes": 3804
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsdictionary.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "833f9d82b1c47648c26a7cbccb085cfbe7f48ccb9dc86795e51f1e9a8055c568",
+        "sha256_in_prefix": "833f9d82b1c47648c26a7cbccb085cfbe7f48ccb9dc86795e51f1e9a8055c568",
+        "size_in_bytes": 9717
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsobject.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "03c839d261a7314e092890ab78bd9726f93694adcc188ea8fb4d696ba3ee43f5",
+        "sha256_in_prefix": "03c839d261a7314e092890ab78bd9726f93694adcc188ea8fb4d696ba3ee43f5",
+        "size_in_bytes": 3507
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsset.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "991ec19c11d49ceb4cfa2f3795c2fe9f287b2554fb6522e42eba8d77ac60be81",
+        "sha256_in_prefix": "991ec19c11d49ceb4cfa2f3795c2fe9f287b2554fb6522e42eba8d77ac60be81",
+        "size_in_bytes": 8680
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience_nsstring.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9d31601b6e888f177e323f2148ed9976b21b9c172c033011d103d585306b8b01",
+        "sha256_in_prefix": "9d31601b6e888f177e323f2148ed9976b21b9c172c033011d103d585306b8b01",
+        "size_in_bytes": 925
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_convenience_sequence.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "87615edc8c166f5b63c6beca5becc797f730ef32c36dd56078379032baa8ca8d",
+        "sha256_in_prefix": "87615edc8c166f5b63c6beca5becc797f730ef32c36dd56078379032baa8ca8d",
+        "size_in_bytes": 1478
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_descriptors.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "01ed0308b1b83b4db1b730f5ba9bc3dc3e138fe238468bda4764d42d3938a4db",
+        "sha256_in_prefix": "01ed0308b1b83b4db1b730f5ba9bc3dc3e138fe238468bda4764d42d3938a4db",
+        "size_in_bytes": 10172
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_dyld.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7ef3e333a9757fb88a90cfd3e261f1a31f97476efa3e30597b6c5aefad908e90",
+        "sha256_in_prefix": "7ef3e333a9757fb88a90cfd3e261f1a31f97476efa3e30597b6c5aefad908e90",
+        "size_in_bytes": 3607
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_framework.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e74da63d0912abf3308d8b4e2a50088ff7b671e10b59d7f7708c2052b3e503c2",
+        "sha256_in_prefix": "e74da63d0912abf3308d8b4e2a50088ff7b671e10b59d7f7708c2052b3e503c2",
+        "size_in_bytes": 586
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_lazyimport.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c24335d46190e5f9fd98a0ef7c4c0f14a38fff0f516ae7ee5ea89e11a2a93c17",
+        "sha256_in_prefix": "c24335d46190e5f9fd98a0ef7c4c0f14a38fff0f516ae7ee5ea89e11a2a93c17",
+        "size_in_bytes": 9604
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_locking.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f6348312fe768915c8116cf8069a81c21c3d594bd74b48dec87abdac0955fdc6",
+        "sha256_in_prefix": "f6348312fe768915c8116cf8069a81c21c3d594bd74b48dec87abdac0955fdc6",
+        "size_in_bytes": 1527
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_properties.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d5796152f18c55319cc6a7c3eb1ecd0970c4b580828c01c9213d373ca25090e1",
+        "sha256_in_prefix": "d5796152f18c55319cc6a7c3eb1ecd0970c4b580828c01c9213d373ca25090e1",
+        "size_in_bytes": 26632
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_protocols.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8d07ea2574a0528b4245ebddefe9644e44955944b339ddf962bfe2c03c5c78e9",
+        "sha256_in_prefix": "8d07ea2574a0528b4245ebddefe9644e44955944b339ddf962bfe2c03c5c78e9",
+        "size_in_bytes": 1018
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_pycoder.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "af18f0424135f37086d1429bfb24b62cfb1e74a59c0c934b566f553356ffd39f",
+        "sha256_in_prefix": "af18f0424135f37086d1429bfb24b62cfb1e74a59c0c934b566f553356ffd39f",
+        "size_in_bytes": 9908
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/__pycache__/_pythonify.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8e0ed773a414d287da47d4a8269b2166d52e7d0c6c1b5d2919d7f4552e3da173",
+        "sha256_in_prefix": "8e0ed773a414d287da47d4a8269b2166d52e7d0c6c1b5d2919d7f4552e3da173",
+        "size_in_bytes": 2603
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_bridges.py",
+        "path_type": "hardlink",
+        "sha256": "886e7ae870bc74c8adc62a47611fd62cc4675833469a8b868c8dc521ae01a830",
+        "sha256_in_prefix": "886e7ae870bc74c8adc62a47611fd62cc4675833469a8b868c8dc521ae01a830",
+        "size_in_bytes": 1605
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_bridgesupport.py",
+        "path_type": "hardlink",
+        "sha256": "8e0ff02f103fc1dd0f1d3627846dbcfb0f6dcc92da17252dea028a17ab25ea0e",
+        "sha256_in_prefix": "8e0ff02f103fc1dd0f1d3627846dbcfb0f6dcc92da17252dea028a17ab25ea0e",
+        "size_in_bytes": 27547
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_callable_docstr.py",
+        "path_type": "hardlink",
+        "sha256": "e02906206084da90222cee17ae4d5ca2be3a7e3ffd9118d2a79580c099268738",
+        "sha256_in_prefix": "e02906206084da90222cee17ae4d5ca2be3a7e3ffd9118d2a79580c099268738",
+        "size_in_bytes": 9202
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_category.py",
+        "path_type": "hardlink",
+        "sha256": "f2b51444609b07141b70dc1482a68e1f8e35e9403255c4e50908cb620021653f",
+        "sha256_in_prefix": "f2b51444609b07141b70dc1482a68e1f8e35e9403255c4e50908cb620021653f",
+        "size_in_bytes": 2515
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "279476b46dc13afedd12a11375231e1a9bb5a56a6b234b7944580f7e657a751e",
+        "sha256_in_prefix": "279476b46dc13afedd12a11375231e1a9bb5a56a6b234b7944580f7e657a751e",
+        "size_in_bytes": 589
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_context.py",
+        "path_type": "hardlink",
+        "sha256": "b6cf72599661cf80aa3a8ad1647e9bd9a1478b5f77f1838a9178d1fdd3e2072a",
+        "sha256_in_prefix": "b6cf72599661cf80aa3a8ad1647e9bd9a1478b5f77f1838a9178d1fdd3e2072a",
+        "size_in_bytes": 1325
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience.py",
+        "path_type": "hardlink",
+        "sha256": "338f58b152efd4162974a02e7b2959124a5dd5daf202c95e1fc500da2165dcc2",
+        "sha256_in_prefix": "338f58b152efd4162974a02e7b2959124a5dd5daf202c95e1fc500da2165dcc2",
+        "size_in_bytes": 3082
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience_mapping.py",
+        "path_type": "hardlink",
+        "sha256": "b93675df09b8da49a4d597db8f9a25c9be7f59e936fb8b89c96d86cb785f0eb4",
+        "sha256_in_prefix": "b93675df09b8da49a4d597db8f9a25c9be7f59e936fb8b89c96d86cb785f0eb4",
+        "size_in_bytes": 3452
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience_nsarray.py",
+        "path_type": "hardlink",
+        "sha256": "833ac472d9bb3f0bb2db19ab46a30febba2e299caab8a646b9847d19f72d2724",
+        "sha256_in_prefix": "833ac472d9bb3f0bb2db19ab46a30febba2e299caab8a646b9847d19f72d2724",
+        "size_in_bytes": 10554
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience_nsdata.py",
+        "path_type": "hardlink",
+        "sha256": "2cba473cfae295b3e9b17d572506fdcdb79ddd945d9583e2f85498217f44a6cf",
+        "sha256_in_prefix": "2cba473cfae295b3e9b17d572506fdcdb79ddd945d9583e2f85498217f44a6cf",
+        "size_in_bytes": 1438
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience_nsdecimal.py",
+        "path_type": "hardlink",
+        "sha256": "50a0df96e4716164bcf426ce2476c5fe3b91a64dff7cff3fb32920cdf245add7",
+        "sha256_in_prefix": "50a0df96e4716164bcf426ce2476c5fe3b91a64dff7cff3fb32920cdf245add7",
+        "size_in_bytes": 3781
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience_nsdictionary.py",
+        "path_type": "hardlink",
+        "sha256": "a02c1dd39963c7e859b02494eaa8d9afba5788d8f553e187a71881dfb37456a3",
+        "sha256_in_prefix": "a02c1dd39963c7e859b02494eaa8d9afba5788d8f553e187a71881dfb37456a3",
+        "size_in_bytes": 8908
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience_nsobject.py",
+        "path_type": "hardlink",
+        "sha256": "1bd8390a94ec615bcbda26b026bbaf1a70214a362ad9a348dab6fecac94934e2",
+        "sha256_in_prefix": "1bd8390a94ec615bcbda26b026bbaf1a70214a362ad9a348dab6fecac94934e2",
+        "size_in_bytes": 3076
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience_nsset.py",
+        "path_type": "hardlink",
+        "sha256": "84cde9bf85d83ff0347073302c386049889e362fee3c2c195a598cf85f3b162d",
+        "sha256_in_prefix": "84cde9bf85d83ff0347073302c386049889e362fee3c2c195a598cf85f3b162d",
+        "size_in_bytes": 8722
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience_nsstring.py",
+        "path_type": "hardlink",
+        "sha256": "1341af5081b31729bbe313496102566c6a10838e9718f3e1e3960e2e719b6262",
+        "sha256_in_prefix": "1341af5081b31729bbe313496102566c6a10838e9718f3e1e3960e2e719b6262",
+        "size_in_bytes": 576
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_convenience_sequence.py",
+        "path_type": "hardlink",
+        "sha256": "7051722449bb4f22cfcbe4959f2b6d9a271805d936b051ba12d711c693138bf6",
+        "sha256_in_prefix": "7051722449bb4f22cfcbe4959f2b6d9a271805d936b051ba12d711c693138bf6",
+        "size_in_bytes": 1252
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_descriptors.py",
+        "path_type": "hardlink",
+        "sha256": "a2a0022fa8b4c908f3af3e97a8709595fd1827b9727bf19b865fa5100451a640",
+        "sha256_in_prefix": "a2a0022fa8b4c908f3af3e97a8709595fd1827b9727bf19b865fa5100451a640",
+        "size_in_bytes": 11649
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_dyld.py",
+        "path_type": "hardlink",
+        "sha256": "ba961870b1711ea057162dd228fd3e412af3d863fcca69ce32c1f35e5df81e22",
+        "sha256_in_prefix": "ba961870b1711ea057162dd228fd3e412af3d863fcca69ce32c1f35e5df81e22",
+        "size_in_bytes": 4522
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_framework.py",
+        "path_type": "hardlink",
+        "sha256": "8985767901148f01192aa1dc19b100cb4ebe23504e73fe6a2a91730431fc28e0",
+        "sha256_in_prefix": "8985767901148f01192aa1dc19b100cb4ebe23504e73fe6a2a91730431fc28e0",
+        "size_in_bytes": 634
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_lazyimport.py",
+        "path_type": "hardlink",
+        "sha256": "e0e087fc76a936a8187de942aa745687b0913c8dc75d4eaa706e2c13b06800cf",
+        "sha256_in_prefix": "e0e087fc76a936a8187de942aa745687b0913c8dc75d4eaa706e2c13b06800cf",
+        "size_in_bytes": 16650
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_locking.py",
+        "path_type": "hardlink",
+        "sha256": "b3191315b314f6c28bd2b3d3eddafcbb2cfed85723b7422eb2aca84a21c6fd08",
+        "sha256_in_prefix": "b3191315b314f6c28bd2b3d3eddafcbb2cfed85723b7422eb2aca84a21c6fd08",
+        "size_in_bytes": 841
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_machsignals.cpython-39-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-core_1609272985158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "cd416d09f4d4e6fa48529a3236948659da92c49bb149893d622df6187be1c035",
+        "sha256_in_prefix": "74898f66b8081870ae71198eb331f68e119f7a0dc6a5495db7f56a384f541023",
+        "size_in_bytes": 36504
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_objc.cpython-39-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-core_1609272985158/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "e9832293ba3ab5bb29fbb47cbca30ad4016d60b5477bf19e3d08513704a1d42e",
+        "sha256_in_prefix": "7b9edbd91f6b11f3e1123d69ea94d9f156f737280b68b089b5cdebf8057e8f1e",
+        "size_in_bytes": 689808
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_properties.py",
+        "path_type": "hardlink",
+        "sha256": "5b8f9da51b213faeb29f294ddc72de58a8d90e51e5864aae03c41baf03189557",
+        "sha256_in_prefix": "5b8f9da51b213faeb29f294ddc72de58a8d90e51e5864aae03c41baf03189557",
+        "size_in_bytes": 33762
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_protocols.py",
+        "path_type": "hardlink",
+        "sha256": "f0b058a3f4ee105d7d4d90fbe7b9d2cd605562977f00a8efbe13c6a89118e9ba",
+        "sha256_in_prefix": "f0b058a3f4ee105d7d4d90fbe7b9d2cd605562977f00a8efbe13c6a89118e9ba",
+        "size_in_bytes": 901
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_pycoder.py",
+        "path_type": "hardlink",
+        "sha256": "2ac6378aca9517480d94eab79051e0a53476ef6be12b6fa039c5bc2ae0e8a0c7",
+        "sha256_in_prefix": "2ac6378aca9517480d94eab79051e0a53476ef6be12b6fa039c5bc2ae0e8a0c7",
+        "size_in_bytes": 15430
+      },
+      {
+        "_path": "lib/python3.9/site-packages/objc/_pythonify.py",
+        "path_type": "hardlink",
+        "sha256": "117bec92b758342b89130aa95e49dc6fe4c5fb5d92ef9af268d7bf7b968d56fd",
+        "sha256_in_prefix": "117bec92b758342b89130aa95e49dc6fe4c5fb5d92ef9af268d7bf7b968d56fd",
+        "size_in_bytes": 2053
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1-py3.9-nspkg.pth",
+        "path_type": "hardlink",
+        "sha256": "116937556c4133462d485ef9dc900f221dc706bc92b3c2fd3f8e3eb31d25cd91",
+        "sha256_in_prefix": "116937556c4133462d485ef9dc900f221dc706bc92b3c2fd3f8e3eb31d25cd91",
+        "size_in_bytes": 564
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "affdacda77638f04ccc05f00cd623e37cf0628697d4a2e57433fdd0d41ce5c2c",
+        "sha256_in_prefix": "affdacda77638f04ccc05f00cd623e37cf0628697d4a2e57433fdd0d41ce5c2c",
+        "size_in_bytes": 2441
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "40fe518daaa0ac0a9d098073dc8e23bad509253366ffbacd6822c9255fbca0ed",
+        "sha256_in_prefix": "40fe518daaa0ac0a9d098073dc8e23bad509253366ffbacd6822c9255fbca0ed",
+        "size_in_bytes": 5093
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "6d17bf83f83ebd922764fe7039d7b097ee00796c7c136fd40b715faf672c3f29",
+        "sha256_in_prefix": "6d17bf83f83ebd922764fe7039d7b097ee00796c7c136fd40b715faf672c3f29",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "1877ea10c55b1747f1bc838e4b410ee519a714517ec970ce2ff4dbf588802e8a",
+        "sha256_in_prefix": "1877ea10c55b1747f1bc838e4b410ee519a714517ec970ce2ff4dbf588802e8a",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/include/pyobjc-api.h",
+        "path_type": "hardlink",
+        "sha256": "1fc127cfe15d4b003c298eeefaa619faa447692a8c9a79e88d587cd2c0a579a9",
+        "sha256_in_prefix": "1fc127cfe15d4b003c298eeefaa619faa447692a8c9a79e88d587cd2c0a579a9",
+        "size_in_bytes": 7916
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/include/pyobjc-compat.h",
+        "path_type": "hardlink",
+        "sha256": "9bcfa621a4069f33812b771c5ef9a1cc1dcb0888099644036bbdf87f97e743c9",
+        "sha256_in_prefix": "9bcfa621a4069f33812b771c5ef9a1cc1dcb0888099644036bbdf87f97e743c9",
+        "size_in_bytes": 14336
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/namespace_packages.txt",
+        "path_type": "hardlink",
+        "sha256": "35196bb817aa6f70b8af4998e2b9feed34325e8635c95a2686289abb0fb743fd",
+        "sha256_in_prefix": "35196bb817aa6f70b8af4998e2b9feed34325e8635c95a2686289abb0fb743fd",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_core-7.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "5af1914dfc5c2f12708839e012e81824c29c5a681e01cbe5b460679bdf5819f7",
+        "sha256_in_prefix": "5af1914dfc5c2f12708839e012e81824c29c5a681e01cbe5b460679bdf5819f7",
+        "size_in_bytes": 28
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "58a327144a252e266c43cf3dd74790252a8ccd2a15c935d4e444babc39d07fa8",
+  "size": 331712,
+  "subdir": "osx-64",
+  "timestamp": 1609273244666,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/pyobjc-core-7.1-py39h6e9494a_0.tar.bz2",
+  "version": "7.1"
+}

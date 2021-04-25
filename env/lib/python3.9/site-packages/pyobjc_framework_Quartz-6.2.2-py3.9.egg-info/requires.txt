@@ -1,0 +1,2 @@
+pyobjc-core>=6.2.2
+pyobjc-framework-Cocoa>=6.2.2

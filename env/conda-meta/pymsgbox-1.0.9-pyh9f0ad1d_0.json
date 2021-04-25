@@ -1,0 +1,120 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/Users/SunnyNie/opt/miniconda3/pkgs/pymsgbox-1.0.9-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/PyMsgBox-1.0.9.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/PyMsgBox-1.0.9.dist-info/METADATA",
+    "lib/python3.9/site-packages/PyMsgBox-1.0.9.dist-info/RECORD",
+    "lib/python3.9/site-packages/PyMsgBox-1.0.9.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/PyMsgBox-1.0.9.dist-info/WHEEL",
+    "lib/python3.9/site-packages/PyMsgBox-1.0.9.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/PyMsgBox-1.0.9.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/pymsgbox/__init__.py",
+    "lib/python3.9/site-packages/pymsgbox/_native_win.py",
+    "lib/python3.9/site-packages/pymsgbox/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/pymsgbox/__pycache__/_native_win.cpython-39.pyc"
+  ],
+  "fn": "pymsgbox-1.0.9-pyh9f0ad1d_0.tar.bz2",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/SunnyNie/opt/miniconda3/pkgs/pymsgbox-1.0.9-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "0e5b17de08111c485e72299cd50d5cef",
+  "name": "pymsgbox",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/SunnyNie/opt/miniconda3/pkgs/pymsgbox-1.0.9-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/PyMsgBox-1.0.9.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/PyMsgBox-1.0.9.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d0dee72fe56afe527ae96c33acb3bbe04d875c7994e88607792cc249e3370dbc",
+        "sha256_in_prefix": "d0dee72fe56afe527ae96c33acb3bbe04d875c7994e88607792cc249e3370dbc",
+        "size_in_bytes": 2018
+      },
+      {
+        "_path": "site-packages/PyMsgBox-1.0.9.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "254588ad5764a985ed68d02a70016026d470135ebc1133d324684fccddf1f19d",
+        "sha256_in_prefix": "254588ad5764a985ed68d02a70016026d470135ebc1133d324684fccddf1f19d",
+        "size_in_bytes": 839
+      },
+      {
+        "_path": "site-packages/PyMsgBox-1.0.9.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/PyMsgBox-1.0.9.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "sha256_in_prefix": "11546323af45e6a5639bf620a9c4d73e74c0bf705f494af4595007b923f75e8a",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/PyMsgBox-1.0.9.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0c0270ed4b164e56fa7a174545a649fae1cf21a705047902f5b7dacaf8008bfa",
+        "sha256_in_prefix": "0c0270ed4b164e56fa7a174545a649fae1cf21a705047902f5b7dacaf8008bfa",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/PyMsgBox-1.0.9.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "561ba6c476d10e8fab6521ffb712f8d4340ee0309a483234973d80221c141db9",
+        "sha256_in_prefix": "561ba6c476d10e8fab6521ffb712f8d4340ee0309a483234973d80221c141db9",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/pymsgbox/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0f8975a58986140dc49ed6235e2dc39efa795fa19d28662887cc44f3da38a524",
+        "sha256_in_prefix": "0f8975a58986140dc49ed6235e2dc39efa795fa19d28662887cc44f3da38a524",
+        "size_in_bytes": 14576
+      },
+      {
+        "_path": "site-packages/pymsgbox/_native_win.py",
+        "path_type": "hardlink",
+        "sha256": "c64887612d30dd973a377afdddb741e88256b8f1ca22c4e1382e7d4f0d417b19",
+        "sha256_in_prefix": "c64887612d30dd973a377afdddb741e88256b8f1ca22c4e1382e7d4f0d417b19",
+        "size_in_bytes": 5079
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pymsgbox/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pymsgbox/__pycache__/_native_win.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "618314374bb741ddbce17fd6578dcd29c9e010f2205422628a46f3254ed6388f",
+  "size": 10045,
+  "subdir": "noarch",
+  "timestamp": 1602398407932,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pymsgbox-1.0.9-pyh9f0ad1d_0.tar.bz2",
+  "version": "1.0.9"
+}

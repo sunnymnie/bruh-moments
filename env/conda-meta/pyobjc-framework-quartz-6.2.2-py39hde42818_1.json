@@ -1,0 +1,514 @@
+{
+  "build": "py39hde42818_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "pyobjc-framework-cocoa",
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "extracted_package_dir": "/Users/SunnyNie/opt/miniconda3/pkgs/pyobjc-framework-quartz-6.2.2-py39hde42818_1",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/__init__.py",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/__pycache__/_contextmanager.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/__pycache__/_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/_callbacks.cpython-39-darwin.so",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/_contextmanager.py",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/_coregraphics.cpython-39-darwin.so",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/_doubleindirect.abi3.so",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/_inlines.abi3.so",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/_metadata.py",
+    "lib/python3.9/site-packages/Quartz/CoreGraphics/_sortandmap.abi3.so",
+    "lib/python3.9/site-packages/Quartz/CoreVideo/_CVPixelBuffer.abi3.so",
+    "lib/python3.9/site-packages/Quartz/CoreVideo/__init__.py",
+    "lib/python3.9/site-packages/Quartz/CoreVideo/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/CoreVideo/__pycache__/_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/CoreVideo/_metadata.py",
+    "lib/python3.9/site-packages/Quartz/ImageIO/PyObjCOverrides.bridgesupport",
+    "lib/python3.9/site-packages/Quartz/ImageIO/__init__.py",
+    "lib/python3.9/site-packages/Quartz/ImageIO/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/ImageIO/__pycache__/_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/ImageIO/_metadata.py",
+    "lib/python3.9/site-packages/Quartz/ImageKit/__init__.py",
+    "lib/python3.9/site-packages/Quartz/ImageKit/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/ImageKit/__pycache__/_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/ImageKit/_imagekit.abi3.so",
+    "lib/python3.9/site-packages/Quartz/ImageKit/_metadata.py",
+    "lib/python3.9/site-packages/Quartz/PDFKit/_PDFKit.abi3.so",
+    "lib/python3.9/site-packages/Quartz/PDFKit/__init__.py",
+    "lib/python3.9/site-packages/Quartz/PDFKit/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/PDFKit/__pycache__/_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/PDFKit/_metadata.py",
+    "lib/python3.9/site-packages/Quartz/QuartzComposer/__init__.py",
+    "lib/python3.9/site-packages/Quartz/QuartzComposer/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/QuartzComposer/__pycache__/_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/QuartzComposer/_metadata.py",
+    "lib/python3.9/site-packages/Quartz/QuartzCore/__init__.py",
+    "lib/python3.9/site-packages/Quartz/QuartzCore/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/QuartzCore/__pycache__/_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/QuartzCore/_metadata.py",
+    "lib/python3.9/site-packages/Quartz/QuartzCore/_quartzcore.abi3.so",
+    "lib/python3.9/site-packages/Quartz/QuartzFilters/__init__.py",
+    "lib/python3.9/site-packages/Quartz/QuartzFilters/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/QuartzFilters/__pycache__/_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/QuartzFilters/_metadata.py",
+    "lib/python3.9/site-packages/Quartz/QuickLookUI/_QuickLookUI.abi3.so",
+    "lib/python3.9/site-packages/Quartz/QuickLookUI/__init__.py",
+    "lib/python3.9/site-packages/Quartz/QuickLookUI/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/QuickLookUI/__pycache__/_metadata.cpython-39.pyc",
+    "lib/python3.9/site-packages/Quartz/QuickLookUI/_metadata.py",
+    "lib/python3.9/site-packages/Quartz/__init__.py",
+    "lib/python3.9/site-packages/Quartz/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/PKG-INFO",
+    "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/SOURCES.txt",
+    "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/dependency_links.txt",
+    "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/not-zip-safe",
+    "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/requires.txt",
+    "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/top_level.txt"
+  ],
+  "fn": "pyobjc-framework-quartz-6.2.2-py39hde42818_1.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/SunnyNie/opt/miniconda3/pkgs/pyobjc-framework-quartz-6.2.2-py39hde42818_1",
+    "type": 1
+  },
+  "md5": "ebfee9c738f02527542c3f1157a57869",
+  "name": "pyobjc-framework-quartz",
+  "package_tarball_full_path": "/Users/SunnyNie/opt/miniconda3/pkgs/pyobjc-framework-quartz-6.2.2-py39hde42818_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "dafc8713f6445192a6814929e38abb9068f279d7c6c8480741282b82bab37010",
+        "sha256_in_prefix": "dafc8713f6445192a6814929e38abb9068f279d7c6c8480741282b82bab37010",
+        "size_in_bytes": 4889
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed6ddc39499d3d12ffa108f5f96a7434d2bddf3844a5aae1b6f86d0d3c94c40f",
+        "sha256_in_prefix": "ed6ddc39499d3d12ffa108f5f96a7434d2bddf3844a5aae1b6f86d0d3c94c40f",
+        "size_in_bytes": 4005
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/__pycache__/_contextmanager.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "133175579133c34d593f2761cf0462dd7db542095adcb90d63239bf73e544f14",
+        "sha256_in_prefix": "133175579133c34d593f2761cf0462dd7db542095adcb90d63239bf73e544f14",
+        "size_in_bytes": 3474
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/__pycache__/_metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa94852c2323b39388f30caa0b47ea6d042c97eb643cebe6cb05d5d58f1a3379",
+        "sha256_in_prefix": "fa94852c2323b39388f30caa0b47ea6d042c97eb643cebe6cb05d5d58f1a3379",
+        "size_in_bytes": 84598
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/_callbacks.cpython-39-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "59fcd301e1b0b8f198b59b17cb6a68a85fe9a40c84ea8bb797fb469afee8909e",
+        "sha256_in_prefix": "22fa72e9e418ed26b855243767dfb79ccf25e187b1103b3bba3755a96ba7b8ee",
+        "size_in_bytes": 36928
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/_contextmanager.py",
+        "path_type": "hardlink",
+        "sha256": "ab77fc3dfcc21c8ff9a3b4e7cde5cd4323264087d09bc949fb9bbfdcaacfaa6d",
+        "sha256_in_prefix": "ab77fc3dfcc21c8ff9a3b4e7cde5cd4323264087d09bc949fb9bbfdcaacfaa6d",
+        "size_in_bytes": 2556
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/_coregraphics.cpython-39-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "f2c33d1ec327c0e8900918fd4571bb1ce235057be5fd154c22edab52f2287cde",
+        "sha256_in_prefix": "471bf50f9d23f8504b67d20f092afc2676897ee4e5df2e131812bed439f0f883",
+        "size_in_bytes": 20440
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/_doubleindirect.abi3.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "d5aaf9bae28378291747fe79a7974a07e3c90f974d1010d563962a1127d59c91",
+        "sha256_in_prefix": "33bd54d22804c8e528d9d480c38a95ac5330d5eca5385d6a77c15ab64a90595e",
+        "size_in_bytes": 14692
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/_inlines.abi3.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "9b7ed1f301c729a5d0b377f4d4fcba8ab2744070326f7e9030658a7839cdc085",
+        "sha256_in_prefix": "fa8f27c232eaf4adcced511255318ebbb9b5b2a3afa10fd418df344f18202b68",
+        "size_in_bytes": 8896
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "013f05e536e2cc1855d00c67421a29b1a89ee2c5514060f946a35614c01933d5",
+        "sha256_in_prefix": "013f05e536e2cc1855d00c67421a29b1a89ee2c5514060f946a35614c01933d5",
+        "size_in_bytes": 132499
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreGraphics/_sortandmap.abi3.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "94d05cd1106932e5e0f5eeecea91573664cffa1aac4dddd53324cc619069e23d",
+        "sha256_in_prefix": "f6a59edc077585a76e6a88d39ec585e4036a4828a1075bc7bc1347f1b00a6469",
+        "size_in_bytes": 15092
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreVideo/_CVPixelBuffer.abi3.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "ace7477f4872bef3bd74f1091d3384f285990d847e4387f1c118382a762271d9",
+        "sha256_in_prefix": "4d818ed23a3295540544d111498a216b5872ede62b30c7de4e573e48c27019c8",
+        "size_in_bytes": 14676
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreVideo/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5d28ade3e0e08680d49e85587eb602f67bb3b1877bde7671d9e24d8c9ca7cfb4",
+        "sha256_in_prefix": "5d28ade3e0e08680d49e85587eb602f67bb3b1877bde7671d9e24d8c9ca7cfb4",
+        "size_in_bytes": 971
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreVideo/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bc206ac8f529bbed8d43e52c601225f50e9666a746195cb559185aaf8150437c",
+        "sha256_in_prefix": "bc206ac8f529bbed8d43e52c601225f50e9666a746195cb559185aaf8150437c",
+        "size_in_bytes": 1111
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreVideo/__pycache__/_metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "95619d3923a90cb3fe11e857bac44789b2dfefc4b9ab7f17ac2ea3fbb96c64d6",
+        "sha256_in_prefix": "95619d3923a90cb3fe11e857bac44789b2dfefc4b9ab7f17ac2ea3fbb96c64d6",
+        "size_in_bytes": 24987
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/CoreVideo/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "3b11bd23cc08f5a85186e7b8c62bf29551a8f17b16558ee1d6d7bbb2289b760f",
+        "sha256_in_prefix": "3b11bd23cc08f5a85186e7b8c62bf29551a8f17b16558ee1d6d7bbb2289b760f",
+        "size_in_bytes": 33479
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageIO/PyObjCOverrides.bridgesupport",
+        "path_type": "hardlink",
+        "sha256": "aab73414167c7f75bcc36affcf96615cf4afff207e242e149fefd7d5a04b2625",
+        "sha256_in_prefix": "aab73414167c7f75bcc36affcf96615cf4afff207e242e149fefd7d5a04b2625",
+        "size_in_bytes": 25142
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageIO/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "bd4ef7aee2138b805aa3b9e82dccac5d5d0f6565690dfb43705ea073b26d5486",
+        "sha256_in_prefix": "bd4ef7aee2138b805aa3b9e82dccac5d5d0f6565690dfb43705ea073b26d5486",
+        "size_in_bytes": 791
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageIO/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a3c6773f66bbaa6c907f4973028efd4ec39c6305a609521fc66b5a4d3b01f51c",
+        "sha256_in_prefix": "a3c6773f66bbaa6c907f4973028efd4ec39c6305a609521fc66b5a4d3b01f51c",
+        "size_in_bytes": 861
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageIO/__pycache__/_metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "60d1092dcae8a9aead24a9489fdb28d1deadfecce57a29570abb9160d267e57d",
+        "sha256_in_prefix": "60d1092dcae8a9aead24a9489fdb28d1deadfecce57a29570abb9160d267e57d",
+        "size_in_bytes": 42838
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageIO/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "a9f5d461aca31bc5181968122d87d4cfd4801291be267403034b7832adcb755d",
+        "sha256_in_prefix": "a9f5d461aca31bc5181968122d87d4cfd4801291be267403034b7832adcb755d",
+        "size_in_bytes": 46938
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageKit/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "257ec272814ed216f7eae9eec857fe72bb68635a0a803b000acd3326cc888e54",
+        "sha256_in_prefix": "257ec272814ed216f7eae9eec857fe72bb68635a0a803b000acd3326cc888e54",
+        "size_in_bytes": 1038
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageKit/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "32f04d7898bd1fcc9b11bc6d345e793a5b1e358ef7b5dcbb1206bb42177b8583",
+        "sha256_in_prefix": "32f04d7898bd1fcc9b11bc6d345e793a5b1e358ef7b5dcbb1206bb42177b8583",
+        "size_in_bytes": 1028
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageKit/__pycache__/_metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "212f67b22ad2be610fd50c1f4122703919331e3d8ef356fba4dea9982a33b4d8",
+        "sha256_in_prefix": "212f67b22ad2be610fd50c1f4122703919331e3d8ef356fba4dea9982a33b4d8",
+        "size_in_bytes": 14764
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageKit/_imagekit.abi3.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "302019a972e230bba550bf166db61d129c96289a4757fb33cdf8594115f1677c",
+        "sha256_in_prefix": "bfb14931d57c2aa8f874900401d5d4a04ecbb3a80d7c1f2e9d745e6e3b54a83a",
+        "size_in_bytes": 15080
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/ImageKit/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "73ac37c3fe170467e4aa1b29bc06cb831cb43d3572c7d8022575f549aeeb4a7c",
+        "sha256_in_prefix": "73ac37c3fe170467e4aa1b29bc06cb831cb43d3572c7d8022575f549aeeb4a7c",
+        "size_in_bytes": 26091
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/PDFKit/_PDFKit.abi3.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "642eedf0785035fcaff2d8747311afc0a06c61b05e79844d0a7dde4113c86377",
+        "sha256_in_prefix": "6838f00ca19c798578d67c4e42b4407b5b76513b686dbf104c261d67400ab73c",
+        "size_in_bytes": 9704
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/PDFKit/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3b45bcc96f9f7fc6140737eb8f9fb8a418bd9a9631ff79f85c329c5fb66704f3",
+        "sha256_in_prefix": "3b45bcc96f9f7fc6140737eb8f9fb8a418bd9a9631ff79f85c329c5fb66704f3",
+        "size_in_bytes": 798
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/PDFKit/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca5557a8523e121bf88582f5a07ba789a6729bda962f6663dfbd47ee1ea6b5f9",
+        "sha256_in_prefix": "ca5557a8523e121bf88582f5a07ba789a6729bda962f6663dfbd47ee1ea6b5f9",
+        "size_in_bytes": 814
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/PDFKit/__pycache__/_metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4d0ecf3175b047a08952433b9e1027359bfb7e779bbc06b50643ee70cfd53db4",
+        "sha256_in_prefix": "4d0ecf3175b047a08952433b9e1027359bfb7e779bbc06b50643ee70cfd53db4",
+        "size_in_bytes": 15269
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/PDFKit/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "dc747d5444471090de1f8b8cf01d2f6022209aa095d3b4bf0bf78728c0083d76",
+        "sha256_in_prefix": "dc747d5444471090de1f8b8cf01d2f6022209aa095d3b4bf0bf78728c0083d76",
+        "size_in_bytes": 21308
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzComposer/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d191d8c7928cc33d88ff8354ffa15f375caa9dd02df43b8dbdc36acd03d2d39b",
+        "sha256_in_prefix": "d191d8c7928cc33d88ff8354ffa15f375caa9dd02df43b8dbdc36acd03d2d39b",
+        "size_in_bytes": 846
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzComposer/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "04fbc499ac9a2b03234dc315e4c1f62bc701a780d27aec139f94787c6b35094e",
+        "sha256_in_prefix": "04fbc499ac9a2b03234dc315e4c1f62bc701a780d27aec139f94787c6b35094e",
+        "size_in_bytes": 911
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzComposer/__pycache__/_metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e84109ca4ebb2c37606aeb75feeca0112b5df6aaa900aa4d9168e8a079a878d0",
+        "sha256_in_prefix": "e84109ca4ebb2c37606aeb75feeca0112b5df6aaa900aa4d9168e8a079a878d0",
+        "size_in_bytes": 9064
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzComposer/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "4effd817b77575ce262881b9f85aa62dee98d175562d8e204045f69f571417ec",
+        "sha256_in_prefix": "4effd817b77575ce262881b9f85aa62dee98d175562d8e204045f69f571417ec",
+        "size_in_bytes": 17340
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzCore/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "87733b4ae296e540749386708b3629ac957e5c5e0c4ab55bc1d696ef643bc783",
+        "sha256_in_prefix": "87733b4ae296e540749386708b3629ac957e5c5e0c4ab55bc1d696ef643bc783",
+        "size_in_bytes": 1798
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzCore/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "45861352214f18b47893533dc87464fce7b04ffce2cbcf7ed02f75af71793877",
+        "sha256_in_prefix": "45861352214f18b47893533dc87464fce7b04ffce2cbcf7ed02f75af71793877",
+        "size_in_bytes": 2073
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzCore/__pycache__/_metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1eca11fb55d8b9ecee2e074374c42fd44f6d1b2f030b5638c9efb292e5dfbd40",
+        "sha256_in_prefix": "1eca11fb55d8b9ecee2e074374c42fd44f6d1b2f030b5638c9efb292e5dfbd40",
+        "size_in_bytes": 34137
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzCore/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "04c86ed0e600a2d9b68a2c2511a88d65b921cc869a72b0dd87bedca78a9dfdce",
+        "sha256_in_prefix": "04c86ed0e600a2d9b68a2c2511a88d65b921cc869a72b0dd87bedca78a9dfdce",
+        "size_in_bytes": 56098
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzCore/_quartzcore.abi3.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "cba041ac20123b4c6572ae4913664990a1cd72137f3b92e1eed914ded5f6f4c0",
+        "sha256_in_prefix": "c66c36ce940a18f77696b93b63cb8da05570ba5f71cf66a19a7901025838a85c",
+        "size_in_bytes": 151664
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzFilters/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "48eee964ebd2c6b10799f9e2b1520251b785beeed3798b04820032dfc6c73d8d",
+        "sha256_in_prefix": "48eee964ebd2c6b10799f9e2b1520251b785beeed3798b04820032dfc6c73d8d",
+        "size_in_bytes": 789
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzFilters/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4822bb91968008101ef8988c31d65b898c22b53960166e28af53f1e77be6c9b1",
+        "sha256_in_prefix": "4822bb91968008101ef8988c31d65b898c22b53960166e28af53f1e77be6c9b1",
+        "size_in_bytes": 844
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzFilters/__pycache__/_metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3aa901d52ed4527877d0d0cfae0e77be25abbe52c02ec418c03533beefc7b20d",
+        "sha256_in_prefix": "3aa901d52ed4527877d0d0cfae0e77be25abbe52c02ec418c03533beefc7b20d",
+        "size_in_bytes": 1674
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuartzFilters/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "a8e0d247d8054b14b86ae0b79c06904328e498aa99de0b1a7fa455c21c5370a7",
+        "sha256_in_prefix": "a8e0d247d8054b14b86ae0b79c06904328e498aa99de0b1a7fa455c21c5370a7",
+        "size_in_bytes": 2404
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuickLookUI/_QuickLookUI.abi3.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/pyobjc-framework-quartz_1602322284516/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "9ea7704b99bb3edd4385aad9b5d3f1d8deb1e2a38d21ae85f608ea8ac124cd92",
+        "sha256_in_prefix": "b379845e577abb6d4042ca355f0f9cdc4224b05033c98a18cf8df25db07efb8e",
+        "size_in_bytes": 9336
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuickLookUI/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "cda8d8eb7ef9c7b755d9a98e3f14d7dfca8fea5621a7bbda7f89d2bb21d99a8f",
+        "sha256_in_prefix": "cda8d8eb7ef9c7b755d9a98e3f14d7dfca8fea5621a7bbda7f89d2bb21d99a8f",
+        "size_in_bytes": 834
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuickLookUI/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b6cb59aa2ec80a774850d68089b2e9f4b3b09846fa77e82f4f182a6cfc99ddf6",
+        "sha256_in_prefix": "b6cb59aa2ec80a774850d68089b2e9f4b3b09846fa77e82f4f182a6cfc99ddf6",
+        "size_in_bytes": 874
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuickLookUI/__pycache__/_metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "42d81359051239ab9006a6e156cdf1f9b924807253988869cfaa9d77481ed43a",
+        "sha256_in_prefix": "42d81359051239ab9006a6e156cdf1f9b924807253988869cfaa9d77481ed43a",
+        "size_in_bytes": 3000
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/QuickLookUI/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "31322668e777baefd407707c7c47edbefbb3d8945981a8d463b7a294967ac206",
+        "sha256_in_prefix": "31322668e777baefd407707c7c47edbefbb3d8945981a8d463b7a294967ac206",
+        "size_in_bytes": 5508
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1a74fe45af1225fdc95e9894c23b4e2bf1cdec691f11b9eff9b71d77007f1a73",
+        "sha256_in_prefix": "1a74fe45af1225fdc95e9894c23b4e2bf1cdec691f11b9eff9b71d77007f1a73",
+        "size_in_bytes": 1779
+      },
+      {
+        "_path": "lib/python3.9/site-packages/Quartz/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7e335f495051ca86d40892f18a58fc76d0efc426fd71928fb57a8858d1ab7c96",
+        "sha256_in_prefix": "7e335f495051ca86d40892f18a58fc76d0efc426fd71928fb57a8858d1ab7c96",
+        "size_in_bytes": 1365
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "34f6af35ae93baf225b5a374050455fb84c0e013fdc4045cd25eb3d948b04a9a",
+        "sha256_in_prefix": "34f6af35ae93baf225b5a374050455fb84c0e013fdc4045cd25eb3d948b04a9a",
+        "size_in_bytes": 3513
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "4ea8c25875d69db159244bf65e3307e2490a63eecde729ade4000b8d3f6c2582",
+        "sha256_in_prefix": "4ea8c25875d69db159244bf65e3307e2490a63eecde729ade4000b8d3f6c2582",
+        "size_in_bytes": 21016
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "264145cd1ef0238200e13b22e3a9e8d195081ae7981a8e9e0a43127504f1dd98",
+        "sha256_in_prefix": "264145cd1ef0238200e13b22e3a9e8d195081ae7981a8e9e0a43127504f1dd98",
+        "size_in_bytes": 49
+      },
+      {
+        "_path": "lib/python3.9/site-packages/pyobjc_framework_Quartz-6.2.2-py3.9.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4ab9f554dc6efd8cbcdc3486917d85a69abba31dfdc66ac570256a343de71e07",
+        "sha256_in_prefix": "4ab9f554dc6efd8cbcdc3486917d85a69abba31dfdc66ac570256a343de71e07",
+        "size_in_bytes": 7
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c06dbb44448ebcb54eba4d2b406ff3574ca224b8e7c7226c0919b3a37df27353",
+  "size": 135533,
+  "subdir": "osx-64",
+  "timestamp": 1602322396510,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/pyobjc-framework-quartz-6.2.2-py39hde42818_1.tar.bz2",
+  "version": "6.2.2"
+}

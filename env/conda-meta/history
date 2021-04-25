@@ -155,3 +155,14 @@
 +conda-forge/osx-64::python_abi-3.9-1_cp39
 +conda-forge/osx-64::sniffio-1.2.0-py39h6e9494a_1
 # update specs: ['jupyterlab']
+==> 2021-04-23 16:55:43 <==
+# cmd: /Users/SunnyNie/opt/miniconda3/bin/conda install -c conda-forge pyautogui
+# conda version: 4.10.1
++conda-forge/noarch::pymsgbox-1.0.9-pyh9f0ad1d_0
++conda-forge/noarch::pyscreeze-0.1.27-pyhd8ed1ab_0
++conda-forge/noarch::pytweening-1.0.3-py_0
++conda-forge/osx-64::pyautogui-0.9.48-py39hde42818_1
++conda-forge/osx-64::pyobjc-core-7.1-py39h6e9494a_0
++conda-forge/osx-64::pyobjc-framework-cocoa-7.1-py39h6e9494a_0
++conda-forge/osx-64::pyobjc-framework-quartz-6.2.2-py39hde42818_1
+# update specs: ['pyautogui']
