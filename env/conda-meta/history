@@ -166,3 +166,14 @@
 +conda-forge/osx-64::pyobjc-framework-cocoa-7.1-py39h6e9494a_0
 +conda-forge/osx-64::pyobjc-framework-quartz-6.2.2-py39hde42818_1
 # update specs: ['pyautogui']
+==> 2021-04-26 17:26:33 <==
+# cmd: /Users/SunnyNie/opt/miniconda3/bin/conda install seaborn
+# conda version: 4.10.1
+-conda-forge/osx-64::ca-certificates-2020.12.5-h033912b_0
+-conda-forge/osx-64::certifi-2020.12.5-py39h6e9494a_1
+-conda-forge/osx-64::openssl-1.1.1k-h0d85af4_0
++defaults/noarch::seaborn-0.11.1-pyhd3eb1b0_0
++defaults/osx-64::ca-certificates-2021.4.13-hecd8cb5_1
++defaults/osx-64::certifi-2020.12.5-py39hecd8cb5_0
++defaults/osx-64::openssl-1.1.1k-h9ed2024_0
+# update specs: ['seaborn']
