@@ -1,0 +1,40 @@
+/* * {
+    background-color: purple;
+} */
+
+body {
+    background-color: #EEFAFA;
+}
+
+button {
+    background-color: #6ABEBA;
+}
+
+#signup {
+    background-color: #1E3635;
+    color: #EEFAFA;
+}
+
+span {
+    color: #4C8885;
+}
+
+.tag {
+    background-color: #D9797D;
+    color: #EEFAFA;
+    font-size: 16px;
+}
+
+.post a {
+    color: #4C8885;
+    text-decoration: none;
+}
+
+footer a {
+    color: #1E3635
+}
+
+.post button:hover {
+    background-color: #D9797D;
+
+}
