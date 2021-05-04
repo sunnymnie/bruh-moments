@@ -1,0 +1,751 @@
+{
+  "build": "py39hcbf5805_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "extracted_package_dir": "/Users/SunnyNie/opt/miniconda3/pkgs/simplejson-3.17.2-py39hcbf5805_2",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/LICENSE.txt",
+    "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/METADATA",
+    "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/RECORD",
+    "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/WHEEL",
+    "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/simplejson/__init__.py",
+    "lib/python3.9/site-packages/simplejson/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/__pycache__/compat.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/__pycache__/decoder.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/__pycache__/encoder.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/__pycache__/errors.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/__pycache__/ordered_dict.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/__pycache__/raw_json.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/__pycache__/scanner.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/__pycache__/tool.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/_speedups.cpython-39-darwin.so",
+    "lib/python3.9/site-packages/simplejson/compat.py",
+    "lib/python3.9/site-packages/simplejson/decoder.py",
+    "lib/python3.9/site-packages/simplejson/encoder.py",
+    "lib/python3.9/site-packages/simplejson/errors.py",
+    "lib/python3.9/site-packages/simplejson/ordered_dict.py",
+    "lib/python3.9/site-packages/simplejson/raw_json.py",
+    "lib/python3.9/site-packages/simplejson/scanner.py",
+    "lib/python3.9/site-packages/simplejson/tests/__init__.py",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_bigint_as_string.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_bitsize_int_as_string.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_check_circular.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_decimal.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_decode.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_default.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_dump.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_encode_basestring_ascii.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_encode_for_html.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_errors.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_fail.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_float.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_for_json.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_indent.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_item_sort_key.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_iterable.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_namedtuple.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_pass1.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_pass2.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_pass3.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_raw_json.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_recursion.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_scanstring.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_separators.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_speedups.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_str_subclass.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_subclass.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_tool.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_tuple.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_unicode.cpython-39.pyc",
+    "lib/python3.9/site-packages/simplejson/tests/test_bigint_as_string.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_bitsize_int_as_string.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_check_circular.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_decimal.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_decode.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_default.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_dump.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_encode_basestring_ascii.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_encode_for_html.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_errors.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_fail.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_float.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_for_json.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_indent.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_item_sort_key.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_iterable.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_namedtuple.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_pass1.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_pass2.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_pass3.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_raw_json.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_recursion.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_scanstring.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_separators.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_speedups.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_str_subclass.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_subclass.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_tool.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_tuple.py",
+    "lib/python3.9/site-packages/simplejson/tests/test_unicode.py",
+    "lib/python3.9/site-packages/simplejson/tool.py"
+  ],
+  "fn": "simplejson-3.17.2-py39hcbf5805_2.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/SunnyNie/opt/miniconda3/pkgs/simplejson-3.17.2-py39hcbf5805_2",
+    "type": 1
+  },
+  "md5": "a8e98d705b7ee5e42e6412d0543ffcf3",
+  "name": "simplejson",
+  "package_tarball_full_path": "/Users/SunnyNie/opt/miniconda3/pkgs/simplejson-3.17.2-py39hcbf5805_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "fcaa1e313a99304322e2e0836ea4ee7d839ce9a480438f3922a853edfdde129f",
+        "sha256_in_prefix": "fcaa1e313a99304322e2e0836ea4ee7d839ce9a480438f3922a853edfdde129f",
+        "size_in_bytes": 10375
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "771138422e1f6c581ae33303a115c2d7bbc32e9e746f6945c15140ffb82ad3be",
+        "sha256_in_prefix": "771138422e1f6c581ae33303a115c2d7bbc32e9e746f6945c15140ffb82ad3be",
+        "size_in_bytes": 3130
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d019537f476c6a5790eb0309aa1acddb82f7c8f8a3a7c3c79f0660d83d6ccec9",
+        "sha256_in_prefix": "d019537f476c6a5790eb0309aa1acddb82f7c8f8a3a7c3c79f0660d83d6ccec9",
+        "size_in_bytes": 6712
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "6d17bf83f83ebd922764fe7039d7b097ee00796c7c136fd40b715faf672c3f29",
+        "sha256_in_prefix": "6d17bf83f83ebd922764fe7039d7b097ee00796c7c136fd40b715faf672c3f29",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f9843807e9267d973765b4315af66a42e26a36ef72a990e1ba237cbbcf9b05db",
+        "sha256_in_prefix": "f9843807e9267d973765b4315af66a42e26a36ef72a990e1ba237cbbcf9b05db",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson-3.17.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "a2153cd7a7b496d7d3f1a045a25e3f5d8d6af46061f6d1016dc3e9367e3ddb4d",
+        "sha256_in_prefix": "a2153cd7a7b496d7d3f1a045a25e3f5d8d6af46061f6d1016dc3e9367e3ddb4d",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7743f7a834abfa29cb7314fb15ea752684c83281d6df690cd81a6ab4873c0fb8",
+        "sha256_in_prefix": "7743f7a834abfa29cb7314fb15ea752684c83281d6df690cd81a6ab4873c0fb8",
+        "size_in_bytes": 23745
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2f38fda95881a0bdd382adbfdf5c7e5c07aac9d490880f26882e713d8ce261b7",
+        "sha256_in_prefix": "2f38fda95881a0bdd382adbfdf5c7e5c07aac9d490880f26882e713d8ce261b7",
+        "size_in_bytes": 20429
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__pycache__/compat.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "da3aa9584d01981af47fb7fba584599c5f03aa784518131aa0641f717a9aa506",
+        "sha256_in_prefix": "da3aa9584d01981af47fb7fba584599c5f03aa784518131aa0641f717a9aa506",
+        "size_in_bytes": 927
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__pycache__/decoder.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "d1dcc4dc62560f4fcbe7b4dd51529f8c7b7ca72f0247b9232ebf269fde3375d7",
+        "sha256_in_prefix": "d1dcc4dc62560f4fcbe7b4dd51529f8c7b7ca72f0247b9232ebf269fde3375d7",
+        "size_in_bytes": 10517
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__pycache__/encoder.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4266e1652058e49af5fbc1cab316d983e1c00abcbb828c5c6476c9e5bc9b83d1",
+        "sha256_in_prefix": "4266e1652058e49af5fbc1cab316d983e1c00abcbb828c5c6476c9e5bc9b83d1",
+        "size_in_bytes": 18690
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__pycache__/errors.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8503a6f98dc9e6531418d4098752932d42f104bccd79e9e399df24ba79c05b6a",
+        "sha256_in_prefix": "8503a6f98dc9e6531418d4098752932d42f104bccd79e9e399df24ba79c05b6a",
+        "size_in_bytes": 1996
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__pycache__/ordered_dict.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "14e8d86f6040ecd5f1dea54036c00b3c420ec97ca2946da50d38c24fd8b2e50f",
+        "sha256_in_prefix": "14e8d86f6040ecd5f1dea54036c00b3c420ec97ca2946da50d38c24fd8b2e50f",
+        "size_in_bytes": 3854
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__pycache__/raw_json.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "92bd67036f67a6b258b423befadf8ecf8fa4b3f79fdff1541db7540f83513f0e",
+        "sha256_in_prefix": "92bd67036f67a6b258b423befadf8ecf8fa4b3f79fdff1541db7540f83513f0e",
+        "size_in_bytes": 565
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__pycache__/scanner.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1aa879fc0170246b62b7e501c5c188f6e59be85d28cdc43d9930e4bddbbd3098",
+        "sha256_in_prefix": "1aa879fc0170246b62b7e501c5c188f6e59be85d28cdc43d9930e4bddbbd3098",
+        "size_in_bytes": 2255
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/__pycache__/tool.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e0dd3cbe4a3da6d7ee020802a6e26722d4675f32d5e0f3d5529bc3bb6324e4f5",
+        "sha256_in_prefix": "e0dd3cbe4a3da6d7ee020802a6e26722d4675f32d5e0f3d5529bc3bb6324e4f5",
+        "size_in_bytes": 1220
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/_speedups.cpython-39-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/simplejson_1610147130138/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "64374aba8982b7c84f0930a39d7a32a793c152f1a894710f4771783e76e66735",
+        "sha256_in_prefix": "afef458084e5dd9dd13e8a44f7c1c404f5a0cacbcbd188ecea3b37150d27954b",
+        "size_in_bytes": 40072
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/compat.py",
+        "path_type": "hardlink",
+        "sha256": "96ba28db5e86ada4566816e884f5ab94eff460239a1d214ad638c209c57ada58",
+        "sha256_in_prefix": "96ba28db5e86ada4566816e884f5ab94eff460239a1d214ad638c209c57ada58",
+        "size_in_bytes": 815
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/decoder.py",
+        "path_type": "hardlink",
+        "sha256": "1a03cf7ce922f7e71c07dddcf986be78a045cf2fde085bccc12fba6d4113657f",
+        "sha256_in_prefix": "1a03cf7ce922f7e71c07dddcf986be78a045cf2fde085bccc12fba6d4113657f",
+        "size_in_bytes": 14519
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/encoder.py",
+        "path_type": "hardlink",
+        "sha256": "11eb909c143c5c5869b20701ea35d60f0c9f71c79fdac98341eaa70803656679",
+        "sha256_in_prefix": "11eb909c143c5c5869b20701ea35d60f0c9f71c79fdac98341eaa70803656679",
+        "size_in_bytes": 28570
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/errors.py",
+        "path_type": "hardlink",
+        "sha256": "6a837606c61897cc4dca9ab753b78f03486f4dbe8f8c21af171678f20b7f6e5a",
+        "sha256_in_prefix": "6a837606c61897cc4dca9ab753b78f03486f4dbe8f8c21af171678f20b7f6e5a",
+        "size_in_bytes": 1779
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/ordered_dict.py",
+        "path_type": "hardlink",
+        "sha256": "4421bcf607740073e1a467771f2f1f17f333e0f729bc4d0f27fbd331f54455bc",
+        "sha256_in_prefix": "4421bcf607740073e1a467771f2f1f17f333e0f729bc4d0f27fbd331f54455bc",
+        "size_in_bytes": 2945
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/raw_json.py",
+        "path_type": "hardlink",
+        "sha256": "1abbb726c6d5f650c15a37e6c3ab36e2da22fecd8cefe8eeca3130acdcdd8078",
+        "sha256_in_prefix": "1abbb726c6d5f650c15a37e6c3ab36e2da22fecd8cefe8eeca3130acdcdd8078",
+        "size_in_bytes": 217
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/scanner.py",
+        "path_type": "hardlink",
+        "sha256": "dce7fcf43ce0a1645aebe66a278ca2d2310e6dd7df4fd1b517041facaf84002b",
+        "sha256_in_prefix": "dce7fcf43ce0a1645aebe66a278ca2d2310e6dd7df4fd1b517041facaf84002b",
+        "size_in_bytes": 2971
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3b3714e58190aceee7d12df018aa1c786a43de9c2ab52ab012994d0a192ab4fc",
+        "sha256_in_prefix": "3b3714e58190aceee7d12df018aa1c786a43de9c2ab52ab012994d0a192ab4fc",
+        "size_in_bytes": 2148
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fb8fda772b50e6641467f1cd1e8f2892289d4e92bdba0727c7198ea4e0767c78",
+        "sha256_in_prefix": "fb8fda772b50e6641467f1cd1e8f2892289d4e92bdba0727c7198ea4e0767c78",
+        "size_in_bytes": 2739
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_bigint_as_string.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7d18cecc6cf1d592c1081fbe8561263e7bf546fda13fc6392d2631a20da77e14",
+        "sha256_in_prefix": "7d18cecc6cf1d592c1081fbe8561263e7bf546fda13fc6392d2631a20da77e14",
+        "size_in_bytes": 1818
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_bitsize_int_as_string.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3e3b63ff100d5565de2f85b265692233cacf46fa60f8af31bb645b8644d2d697",
+        "sha256_in_prefix": "3e3b63ff100d5565de2f85b265692233cacf46fa60f8af31bb645b8644d2d697",
+        "size_in_bytes": 2198
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_check_circular.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "067b0c28f0fd018c585c0cbb768554a611c547c7a8f9df77c71a205e118e9991",
+        "sha256_in_prefix": "067b0c28f0fd018c585c0cbb768554a611c547c7a8f9df77c71a205e118e9991",
+        "size_in_bytes": 1638
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_decimal.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "25c5952f6d440842bef1d68ea247ef50f641f413346c7615d0924fb847022926",
+        "sha256_in_prefix": "25c5952f6d440842bef1d68ea247ef50f641f413346c7615d0924fb847022926",
+        "size_in_bytes": 2681
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_decode.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "81ba4afc31b253ff4194e4aebc59f6fb58c18457c9bb452c73708d939f742748",
+        "sha256_in_prefix": "81ba4afc31b253ff4194e4aebc59f6fb58c18457c9bb452c73708d939f742748",
+        "size_in_bytes": 5424
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_default.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3abf82d97b36cad7e513e02de50695d850bdcdf2060922b63572234c79e853d9",
+        "sha256_in_prefix": "3abf82d97b36cad7e513e02de50695d850bdcdf2060922b63572234c79e853d9",
+        "size_in_bytes": 592
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_dump.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0b64ffd03bae9c61da39e1d65880f67618a77cd53e13d76977aa4b7b625a30bc",
+        "sha256_in_prefix": "0b64ffd03bae9c61da39e1d65880f67618a77cd53e13d76977aa4b7b625a30bc",
+        "size_in_bytes": 8656
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_encode_basestring_ascii.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2672dbd1ea3c85999ceecf14a5e982eccd07af1ce8b072f2ee3ee61f62dfb894",
+        "sha256_in_prefix": "2672dbd1ea3c85999ceecf14a5e982eccd07af1ce8b072f2ee3ee61f62dfb894",
+        "size_in_bytes": 2300
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_encode_for_html.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5af54cba4adc2a35e769ba9967f38340d8215a0edcd899ee1a5b642068a520c5",
+        "sha256_in_prefix": "5af54cba4adc2a35e769ba9967f38340d8215a0edcd899ee1a5b642068a520c5",
+        "size_in_bytes": 1835
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_errors.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6719ed190c9c13999d13619f1b42063ad63e471eaf5ca79069db055b2b31b98f",
+        "sha256_in_prefix": "6719ed190c9c13999d13619f1b42063ad63e471eaf5ca79069db055b2b31b98f",
+        "size_in_bytes": 2376
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_fail.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7655d0d8c6806d92d8dc8eb0e5983aa956c2307de343f63d2dbca717b864ec96",
+        "sha256_in_prefix": "7655d0d8c6806d92d8dc8eb0e5983aa956c2307de343f63d2dbca717b864ec96",
+        "size_in_bytes": 3562
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_float.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9d09a40c66fc86dd9f063511c00be8ebab1fecf23062127c8d2f94293ed0177a",
+        "sha256_in_prefix": "9d09a40c66fc86dd9f063511c00be8ebab1fecf23062127c8d2f94293ed0177a",
+        "size_in_bytes": 1958
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_for_json.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e279aca4e0a5c87462ae2f331513433ced9368f33cf4a34b9c099d582c558846",
+        "sha256_in_prefix": "e279aca4e0a5c87462ae2f331513433ced9368f33cf4a34b9c099d582c558846",
+        "size_in_bytes": 4627
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_indent.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f34dde20ec2f3d10b8284f42bab9b4eca090c9fc01cddd8f300a8830b576f42a",
+        "sha256_in_prefix": "f34dde20ec2f3d10b8284f42bab9b4eca090c9fc01cddd8f300a8830b576f42a",
+        "size_in_bytes": 2272
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_item_sort_key.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0eea8ddb3be05dd7837cfef9e2ba516e4898aceb78877c5ffe4380bcb5506bd4",
+        "sha256_in_prefix": "0eea8ddb3be05dd7837cfef9e2ba516e4898aceb78877c5ffe4380bcb5506bd4",
+        "size_in_bytes": 2056
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_iterable.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bad7c6e03597284682c082790825aaee1b406b45f698db212e39d7cc15482a10",
+        "sha256_in_prefix": "bad7c6e03597284682c082790825aaee1b406b45f698db212e39d7cc15482a10",
+        "size_in_bytes": 1393
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_namedtuple.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0df7770974744a07090e8637dea59c132f55d564b1e1b463c0a5fdad2fbc41c6",
+        "sha256_in_prefix": "0df7770974744a07090e8637dea59c132f55d564b1e1b463c0a5fdad2fbc41c6",
+        "size_in_bytes": 5048
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_pass1.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e2d297d4427b0b86a0719e6de24b215ee7e7a51d18e65d9de13cef4659a0b669",
+        "sha256_in_prefix": "e2d297d4427b0b86a0719e6de24b215ee7e7a51d18e65d9de13cef4659a0b669",
+        "size_in_bytes": 2015
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_pass2.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1506aae3efe30cdfc2483d6cfd84f9311db0fd2b4b61da3cd884d49073f5a597",
+        "sha256_in_prefix": "1506aae3efe30cdfc2483d6cfd84f9311db0fd2b4b61da3cd884d49073f5a597",
+        "size_in_bytes": 653
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_pass3.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "20355ab576f01c92e4bf1a4ea43c20103156be99496c73d010133cbe08d79cbf",
+        "sha256_in_prefix": "20355ab576f01c92e4bf1a4ea43c20103156be99496c73d010133cbe08d79cbf",
+        "size_in_bytes": 748
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_raw_json.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd3e3f1608346167d6b9a45cbcb3d0b915b4afedd0e8b09a6ef9ec7710ab3083",
+        "sha256_in_prefix": "bd3e3f1608346167d6b9a45cbcb3d0b915b4afedd0e8b09a6ef9ec7710ab3083",
+        "size_in_bytes": 1402
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_recursion.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ef5f98d2aea305a8f5428710e435a1160f7b97ccae083bbfa899b32723490b60",
+        "sha256_in_prefix": "ef5f98d2aea305a8f5428710e435a1160f7b97ccae083bbfa899b32723490b60",
+        "size_in_bytes": 2025
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_scanstring.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "51065b35467c2ba558b629944100bd1edac3796cc19e91fc6ea82c719ae7e222",
+        "sha256_in_prefix": "51065b35467c2ba558b629944100bd1edac3796cc19e91fc6ea82c719ae7e222",
+        "size_in_bytes": 5045
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_separators.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "136141d84e4d7517dcc85ef933a33e80179c3eff6fc4f598141edf55b8c97f3a",
+        "sha256_in_prefix": "136141d84e4d7517dcc85ef933a33e80179c3eff6fc4f598141edf55b8c97f3a",
+        "size_in_bytes": 1245
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_speedups.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ae7eef9cec05a3c279bf379f1a96fdfb265fcdf8b5fe18765dee6d3b11ddf1ba",
+        "sha256_in_prefix": "ae7eef9cec05a3c279bf379f1a96fdfb265fcdf8b5fe18765dee6d3b11ddf1ba",
+        "size_in_bytes": 4925
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_str_subclass.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "c6057d4f3dd367009c9cbffc17fa1e29c893647e6165d2614eb4fc6e581a4fe3",
+        "sha256_in_prefix": "c6057d4f3dd367009c9cbffc17fa1e29c893647e6165d2614eb4fc6e581a4fe3",
+        "size_in_bytes": 1064
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_subclass.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "14a54337cea826e82d8989a6bde5dc0a664bd2231f478f809fb40373ebb60f61",
+        "sha256_in_prefix": "14a54337cea826e82d8989a6bde5dc0a664bd2231f478f809fb40373ebb60f61",
+        "size_in_bytes": 1492
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_tool.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "4a08136cfb20517a3d90dda35af4aba9656af4c1d27d27f2a0c11dfae6845934",
+        "sha256_in_prefix": "4a08136cfb20517a3d90dda35af4aba9656af4c1d27d27f2a0c11dfae6845934",
+        "size_in_bytes": 3162
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_tuple.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "259b74283b2f130ec82e399f891cd7fc9b9c0ae70385dcc05e6eaeb5a3699df8",
+        "sha256_in_prefix": "259b74283b2f130ec82e399f891cd7fc9b9c0ae70385dcc05e6eaeb5a3699df8",
+        "size_in_bytes": 1381
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/__pycache__/test_unicode.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "56570dd29cfef5892a7d8390089ac538808fb2bfd2240697fba274332d3ca8ad",
+        "sha256_in_prefix": "56570dd29cfef5892a7d8390089ac538808fb2bfd2240697fba274332d3ca8ad",
+        "size_in_bytes": 6567
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_bigint_as_string.py",
+        "path_type": "hardlink",
+        "sha256": "60e988e0aaba19a4a3603bec29901367049c5868f2e941fb247475febfa9cdba",
+        "sha256_in_prefix": "60e988e0aaba19a4a3603bec29901367049c5868f2e941fb247475febfa9cdba",
+        "size_in_bytes": 2238
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_bitsize_int_as_string.py",
+        "path_type": "hardlink",
+        "sha256": "aa42784c330f28c539cf8641656261c7e96766ea4789e1cf332d2b8efa417213",
+        "sha256_in_prefix": "aa42784c330f28c539cf8641656261c7e96766ea4789e1cf332d2b8efa417213",
+        "size_in_bytes": 2297
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_check_circular.py",
+        "path_type": "hardlink",
+        "sha256": "7284780a26a50772d7418202efa59109d63790273b77f3cde298a446f17060b2",
+        "sha256_in_prefix": "7284780a26a50772d7418202efa59109d63790273b77f3cde298a446f17060b2",
+        "size_in_bytes": 917
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_decimal.py",
+        "path_type": "hardlink",
+        "sha256": "01e174c542c1f6fa6adb393e42f578aeb27998c0abf1156f2b717cdff805f0c3",
+        "sha256_in_prefix": "01e174c542c1f6fa6adb393e42f578aeb27998c0abf1156f2b717cdff805f0c3",
+        "size_in_bytes": 2544
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_decode.py",
+        "path_type": "hardlink",
+        "sha256": "d4131c05e60430dc54d37a8e7cfbfe8ac370bd3355041b1488e5dd2304206dd8",
+        "sha256_in_prefix": "d4131c05e60430dc54d37a8e7cfbfe8ac370bd3355041b1488e5dd2304206dd8",
+        "size_in_bytes": 4835
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_default.py",
+        "path_type": "hardlink",
+        "sha256": "7f97f849d1ceb7d3fd54fa1b21a0a3d738cc0310cb574c663c3c9b6bfb373205",
+        "sha256_in_prefix": "7f97f849d1ceb7d3fd54fa1b21a0a3d738cc0310cb574c663c3c9b6bfb373205",
+        "size_in_bytes": 221
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_dump.py",
+        "path_type": "hardlink",
+        "sha256": "883df3f04ecc2820295376c5b0074178a1e5ff884b203ae13d221fa5b1a18c97",
+        "sha256_in_prefix": "883df3f04ecc2820295376c5b0074178a1e5ff884b203ae13d221fa5b1a18c97",
+        "size_in_bytes": 10356
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_encode_basestring_ascii.py",
+        "path_type": "hardlink",
+        "sha256": "7b4c446938d8bc39b186eabaa0a91c647fb15a6eb25f55925019f7490345a19e",
+        "sha256_in_prefix": "7b4c446938d8bc39b186eabaa0a91c647fb15a6eb25f55925019f7490345a19e",
+        "size_in_bytes": 2337
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_encode_for_html.py",
+        "path_type": "hardlink",
+        "sha256": "483e9ffefd47957a3c07706192cb47d689009caebbe313bbc4cede5aebc1642a",
+        "sha256_in_prefix": "483e9ffefd47957a3c07706192cb47d689009caebbe313bbc4cede5aebc1642a",
+        "size_in_bytes": 1515
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_errors.py",
+        "path_type": "hardlink",
+        "sha256": "7a35198eab8cd29095e730e833bb370c993da6b5da58a5f288da8aae56116cc9",
+        "sha256_in_prefix": "7a35198eab8cd29095e730e833bb370c993da6b5da58a5f288da8aae56116cc9",
+        "size_in_bytes": 2081
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_fail.py",
+        "path_type": "hardlink",
+        "sha256": "9d62a7b0d67ac1e90f89fad006ebc5abccd01f6703cd89f77822b86974fdcd85",
+        "sha256_in_prefix": "9d62a7b0d67ac1e90f89fad006ebc5abccd01f6703cd89f77822b86974fdcd85",
+        "size_in_bytes": 6346
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_float.py",
+        "path_type": "hardlink",
+        "sha256": "697238200ad572d9caaefdd34a55935478b501d0d66db320ba26727af082b675",
+        "sha256_in_prefix": "697238200ad572d9caaefdd34a55935478b501d0d66db320ba26727af082b675",
+        "size_in_bytes": 1430
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_for_json.py",
+        "path_type": "hardlink",
+        "sha256": "d6d39580dab78cd17a4624b03d766c2f62c0ce7ec5e350f38e2181faa5d21c42",
+        "sha256_in_prefix": "d6d39580dab78cd17a4624b03d766c2f62c0ce7ec5e350f38e2181faa5d21c42",
+        "size_in_bytes": 2767
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_indent.py",
+        "path_type": "hardlink",
+        "sha256": "1e3ab4ee108225d9ffac2805650428ff56accab1306e518677f8834fd5704fb3",
+        "sha256_in_prefix": "1e3ab4ee108225d9ffac2805650428ff56accab1306e518677f8834fd5704fb3",
+        "size_in_bytes": 2568
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_item_sort_key.py",
+        "path_type": "hardlink",
+        "sha256": "83ccf4a133c498b654dfee74510a639144cceb6e4f9c4f2c2abb5f03dc0d484d",
+        "sha256_in_prefix": "83ccf4a133c498b654dfee74510a639144cceb6e4f9c4f2c2abb5f03dc0d484d",
+        "size_in_bytes": 1376
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_iterable.py",
+        "path_type": "hardlink",
+        "sha256": "117257ffce813885db043c569ec3585aeeb5edd499808d04e8c78f07667e9bc2",
+        "sha256_in_prefix": "117257ffce813885db043c569ec3585aeeb5edd499808d04e8c78f07667e9bc2",
+        "size_in_bytes": 1390
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_namedtuple.py",
+        "path_type": "hardlink",
+        "sha256": "a9c20591fd335b465b586f97b26b4baad3fb52d7295a5e4a1a87daccca688698",
+        "sha256_in_prefix": "a9c20591fd335b465b586f97b26b4baad3fb52d7295a5e4a1a87daccca688698",
+        "size_in_bytes": 4004
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_pass1.py",
+        "path_type": "hardlink",
+        "sha256": "c5dd1c51a5fd5b9352bf4417cdc6b8618d9d960ba1ee856eda8841fbea35edb1",
+        "sha256_in_prefix": "c5dd1c51a5fd5b9352bf4417cdc6b8618d9d960ba1ee856eda8841fbea35edb1",
+        "size_in_bytes": 1746
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_pass2.py",
+        "path_type": "hardlink",
+        "sha256": "582e497fff666886076d8e285dacf8f10463f5bb2a3f23b82a4eaecdad4d40df",
+        "sha256_in_prefix": "582e497fff666886076d8e285dacf8f10463f5bb2a3f23b82a4eaecdad4d40df",
+        "size_in_bytes": 386
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_pass3.py",
+        "path_type": "hardlink",
+        "sha256": "848826ccb434fffa21de793b2d55357af07f71aa63a39832a7734db552839228",
+        "sha256_in_prefix": "848826ccb434fffa21de793b2d55357af07f71aa63a39832a7734db552839228",
+        "size_in_bytes": 482
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_raw_json.py",
+        "path_type": "hardlink",
+        "sha256": "25b156a3aad73d7c46a790041246656a3699e2a9a5ddd6250ce2cf29d50baf6d",
+        "sha256_in_prefix": "25b156a3aad73d7c46a790041246656a3699e2a9a5ddd6250ce2cf29d50baf6d",
+        "size_in_bytes": 1062
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_recursion.py",
+        "path_type": "hardlink",
+        "sha256": "5c3a990e921dbda503f83cab3dbea525c5845ee2c88b1ebb2e3745420dcffcf0",
+        "sha256_in_prefix": "5c3a990e921dbda503f83cab3dbea525c5845ee2c88b1ebb2e3745420dcffcf0",
+        "size_in_bytes": 1679
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_scanstring.py",
+        "path_type": "hardlink",
+        "sha256": "971ddf0c4e8fdf75835dbf6c3e940b6b75e1a179af180acd092eedbe1ec14a58",
+        "sha256_in_prefix": "971ddf0c4e8fdf75835dbf6c3e940b6b75e1a179af180acd092eedbe1ec14a58",
+        "size_in_bytes": 7398
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_separators.py",
+        "path_type": "hardlink",
+        "sha256": "754dea3b65a2ccb6e63944faab1af8918ad1f2ff1b68e3978d6e2a445ad8316e",
+        "sha256_in_prefix": "754dea3b65a2ccb6e63944faab1af8918ad1f2ff1b68e3978d6e2a445ad8316e",
+        "size_in_bytes": 942
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_speedups.py",
+        "path_type": "hardlink",
+        "sha256": "568b6fd5d6a6dd32a325a77764691f4e2f2f6f3d6253f6b34a699a42867cacf0",
+        "sha256_in_prefix": "568b6fd5d6a6dd32a325a77764691f4e2f2f6f3d6253f6b34a699a42867cacf0",
+        "size_in_bytes": 4144
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_str_subclass.py",
+        "path_type": "hardlink",
+        "sha256": "71dbed13b2eea79be480f16e68fa2eef9747ccfb45e72c96561a6d003b1203e6",
+        "sha256_in_prefix": "71dbed13b2eea79be480f16e68fa2eef9747ccfb45e72c96561a6d003b1203e6",
+        "size_in_bytes": 740
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_subclass.py",
+        "path_type": "hardlink",
+        "sha256": "5e53989302b9eeafd9e55599188748ac1fe0007c52bd06e0ffc9b99009d63002",
+        "sha256_in_prefix": "5e53989302b9eeafd9e55599188748ac1fe0007c52bd06e0ffc9b99009d63002",
+        "size_in_bytes": 1124
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_tool.py",
+        "path_type": "hardlink",
+        "sha256": "45fefdd51d6e9293c5bdca66fdd14f4ffd9ea0b130bb8b0da6ca257b331eab3a",
+        "sha256_in_prefix": "45fefdd51d6e9293c5bdca66fdd14f4ffd9ea0b130bb8b0da6ca257b331eab3a",
+        "size_in_bytes": 3304
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_tuple.py",
+        "path_type": "hardlink",
+        "sha256": "7c99470780c30e532763ab8ea3ad06994d78bd501870a58943705c42a5c9a4d3",
+        "sha256_in_prefix": "7c99470780c30e532763ab8ea3ad06994d78bd501870a58943705c42a5c9a4d3",
+        "size_in_bytes": 1831
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tests/test_unicode.py",
+        "path_type": "hardlink",
+        "sha256": "70a2c62e3d9e802aa2ffbc41fe957e995681e44428bde0142032879422ce959a",
+        "sha256_in_prefix": "70a2c62e3d9e802aa2ffbc41fe957e995681e44428bde0142032879422ce959a",
+        "size_in_bytes": 7056
+      },
+      {
+        "_path": "lib/python3.9/site-packages/simplejson/tool.py",
+        "path_type": "hardlink",
+        "sha256": "4288b72cd4ed0b2d000402c8e27805b853328f220a32970235196480b81037fd",
+        "sha256_in_prefix": "4288b72cd4ed0b2d000402c8e27805b853328f220a32970235196480b81037fd",
+        "size_in_bytes": 1136
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "327da39d87ad5ce50c0be34427a94fa7dd1572547c0bff996e79ca34e3bf71ad",
+  "size": 102028,
+  "subdir": "osx-64",
+  "timestamp": 1610147295329,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/simplejson-3.17.2-py39hcbf5805_2.tar.bz2",
+  "version": "3.17.2"
+}

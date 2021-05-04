@@ -1,0 +1,189 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "pyparsing >=2.4.2,<3",
+    "python >=3"
+  ],
+  "extracted_package_dir": "/Users/SunnyNie/opt/miniconda3/pkgs/httplib2-0.19.1-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/httplib2-0.19.1.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/httplib2-0.19.1.dist-info/LICENSE",
+    "lib/python3.9/site-packages/httplib2-0.19.1.dist-info/METADATA",
+    "lib/python3.9/site-packages/httplib2-0.19.1.dist-info/RECORD",
+    "lib/python3.9/site-packages/httplib2-0.19.1.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/httplib2-0.19.1.dist-info/WHEEL",
+    "lib/python3.9/site-packages/httplib2-0.19.1.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/httplib2-0.19.1.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/httplib2/__init__.py",
+    "lib/python3.9/site-packages/httplib2/auth.py",
+    "lib/python3.9/site-packages/httplib2/cacerts.txt",
+    "lib/python3.9/site-packages/httplib2/certs.py",
+    "lib/python3.9/site-packages/httplib2/error.py",
+    "lib/python3.9/site-packages/httplib2/iri2uri.py",
+    "lib/python3.9/site-packages/httplib2/socks.py",
+    "lib/python3.9/site-packages/httplib2/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/httplib2/__pycache__/auth.cpython-39.pyc",
+    "lib/python3.9/site-packages/httplib2/__pycache__/certs.cpython-39.pyc",
+    "lib/python3.9/site-packages/httplib2/__pycache__/error.cpython-39.pyc",
+    "lib/python3.9/site-packages/httplib2/__pycache__/iri2uri.cpython-39.pyc",
+    "lib/python3.9/site-packages/httplib2/__pycache__/socks.cpython-39.pyc"
+  ],
+  "fn": "httplib2-0.19.1-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/SunnyNie/opt/miniconda3/pkgs/httplib2-0.19.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "161aee2d640340b7b8f8008497f095c1",
+  "name": "httplib2",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/SunnyNie/opt/miniconda3/pkgs/httplib2-0.19.1-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/httplib2-0.19.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/httplib2-0.19.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "589eec38f72df2be203711d3b8cbece9b908c5e7ff00bc3cab7f63bae9e366b4",
+        "sha256_in_prefix": "589eec38f72df2be203711d3b8cbece9b908c5e7ff00bc3cab7f63bae9e366b4",
+        "size_in_bytes": 1086
+      },
+      {
+        "_path": "site-packages/httplib2-0.19.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "63bef7c7da3c5bae33c47c1cf4bc8923203308042c9f2bd60f2ad4b3b975979d",
+        "sha256_in_prefix": "63bef7c7da3c5bae33c47c1cf4bc8923203308042c9f2bd60f2ad4b3b975979d",
+        "size_in_bytes": 2235
+      },
+      {
+        "_path": "site-packages/httplib2-0.19.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "25d1e4463fed0ff56fc5d733e9d0ad1265cd3bfccbc7201589aa2f5583c5dfcf",
+        "sha256_in_prefix": "25d1e4463fed0ff56fc5d733e9d0ad1265cd3bfccbc7201589aa2f5583c5dfcf",
+        "size_in_bytes": 1486
+      },
+      {
+        "_path": "site-packages/httplib2-0.19.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/httplib2-0.19.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/httplib2-0.19.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "11001062034332c16cfe389f095f30e7beb10218b25522ab00830f2f660a7ec9",
+        "sha256_in_prefix": "11001062034332c16cfe389f095f30e7beb10218b25522ab00830f2f660a7ec9",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/httplib2-0.19.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "04463c0a12b06a05169aef71f3237d24e6c9a5928d7960abd44fac20409be7a2",
+        "sha256_in_prefix": "04463c0a12b06a05169aef71f3237d24e6c9a5928d7960abd44fac20409be7a2",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/httplib2/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0485dec0d6f5f1b1d17909b527e3566ac5119643b45238c482ea7651a74a3fcf",
+        "sha256_in_prefix": "0485dec0d6f5f1b1d17909b527e3566ac5119643b45238c482ea7651a74a3fcf",
+        "size_in_bytes": 68412
+      },
+      {
+        "_path": "site-packages/httplib2/auth.py",
+        "path_type": "hardlink",
+        "sha256": "21d2422aa302da7c7b3b9c1b6307ced389b55f79a2616e49019f569f9790662e",
+        "sha256_in_prefix": "21d2422aa302da7c7b3b9c1b6307ced389b55f79a2616e49019f569f9790662e",
+        "size_in_bytes": 2026
+      },
+      {
+        "_path": "site-packages/httplib2/cacerts.txt",
+        "path_type": "hardlink",
+        "sha256": "010c9a7558e9d6c1081b4c8888c27cda5e7686994fa37a1d248c93492fec38dc",
+        "sha256_in_prefix": "010c9a7558e9d6c1081b4c8888c27cda5e7686994fa37a1d248c93492fec38dc",
+        "size_in_bytes": 135547
+      },
+      {
+        "_path": "site-packages/httplib2/certs.py",
+        "path_type": "hardlink",
+        "sha256": "82e85f8cc3610dd2891326016f96722f154ee6ad48ed8fcffb8046f0c9e2064f",
+        "sha256_in_prefix": "82e85f8cc3610dd2891326016f96722f154ee6ad48ed8fcffb8046f0c9e2064f",
+        "size_in_bytes": 971
+      },
+      {
+        "_path": "site-packages/httplib2/error.py",
+        "path_type": "hardlink",
+        "sha256": "1b2a8f52f65e29d54bab47f7c60d2e5f8ae3b6fee354626e3deac077273e8df9",
+        "sha256_in_prefix": "1b2a8f52f65e29d54bab47f7c60d2e5f8ae3b6fee354626e3deac077273e8df9",
+        "size_in_bytes": 954
+      },
+      {
+        "_path": "site-packages/httplib2/iri2uri.py",
+        "path_type": "hardlink",
+        "sha256": "3e1233133791e82ef797ba62c2b34026556f95682cab1b494e515e5e0ce7cd0a",
+        "sha256_in_prefix": "3e1233133791e82ef797ba62c2b34026556f95682cab1b494e515e5e0ce7cd0a",
+        "size_in_bytes": 4153
+      },
+      {
+        "_path": "site-packages/httplib2/socks.py",
+        "path_type": "hardlink",
+        "sha256": "a1a7843a74f6ae44cd9bac279f40927615b355a56c8679e400a88fe24c4acf37",
+        "sha256_in_prefix": "a1a7843a74f6ae44cd9bac279f40927615b355a56c8679e400a88fe24c4acf37",
+        "size_in_bytes": 19701
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httplib2/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httplib2/__pycache__/auth.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httplib2/__pycache__/certs.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httplib2/__pycache__/error.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httplib2/__pycache__/iri2uri.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/httplib2/__pycache__/socks.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7581b3d687fc8d45d09acf8a04d4145233680ff1eaf258f12e3a3a6fce1e5d51",
+  "size": 96429,
+  "subdir": "noarch",
+  "timestamp": 1617134585146,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/httplib2-0.19.1-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.19.1"
+}
