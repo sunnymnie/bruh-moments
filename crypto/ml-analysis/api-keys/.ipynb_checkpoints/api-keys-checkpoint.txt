@@ -1,3 +1,0 @@
-Binance api keys:
-API-key: lol
-Secret-key: lol
