@@ -1,4 +1,0 @@
-Binance api keys:
-API-key: lol
-Secret-key: lol
-Secret-crush: you lol
