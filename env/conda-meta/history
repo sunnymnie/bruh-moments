@@ -219,3 +219,8 @@
 +conda-forge/noarch::pyjwt-2.1.0-pyhd8ed1ab_0
 +conda-forge/noarch::requests-oauthlib-1.3.0-pyh9f0ad1d_0
 # update specs: ['google-auth-oauthlib']
+==> 2021-05-09 15:12:31 <==
+# cmd: /Users/SunnyNie/opt/miniconda3/bin/conda install -c conda-forge ta
+# conda version: 4.10.1
++conda-forge/noarch::ta-0.7.0-pyhd8ed1ab_1
+# update specs: ['ta']

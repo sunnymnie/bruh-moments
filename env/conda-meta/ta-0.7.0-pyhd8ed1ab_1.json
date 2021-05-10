@@ -1,0 +1,208 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "numpy",
+    "pandas",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/Users/SunnyNie/opt/miniconda3/pkgs/ta-0.7.0-pyhd8ed1ab_1",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/ta-0.7.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/ta-0.7.0.dist-info/LICENSE",
+    "lib/python3.9/site-packages/ta-0.7.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/ta-0.7.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/ta-0.7.0.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/ta-0.7.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/ta-0.7.0.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/ta-0.7.0.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/ta/__init__.py",
+    "lib/python3.9/site-packages/ta/momentum.py",
+    "lib/python3.9/site-packages/ta/others.py",
+    "lib/python3.9/site-packages/ta/trend.py",
+    "lib/python3.9/site-packages/ta/utils.py",
+    "lib/python3.9/site-packages/ta/volatility.py",
+    "lib/python3.9/site-packages/ta/volume.py",
+    "lib/python3.9/site-packages/ta/wrapper.py",
+    "lib/python3.9/site-packages/ta/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/ta/__pycache__/momentum.cpython-39.pyc",
+    "lib/python3.9/site-packages/ta/__pycache__/others.cpython-39.pyc",
+    "lib/python3.9/site-packages/ta/__pycache__/trend.cpython-39.pyc",
+    "lib/python3.9/site-packages/ta/__pycache__/utils.cpython-39.pyc",
+    "lib/python3.9/site-packages/ta/__pycache__/volatility.cpython-39.pyc",
+    "lib/python3.9/site-packages/ta/__pycache__/volume.cpython-39.pyc",
+    "lib/python3.9/site-packages/ta/__pycache__/wrapper.cpython-39.pyc"
+  ],
+  "fn": "ta-0.7.0-pyhd8ed1ab_1.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/SunnyNie/opt/miniconda3/pkgs/ta-0.7.0-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "bcbc834157f161fa0ea29a8e1aa50937",
+  "name": "ta",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/SunnyNie/opt/miniconda3/pkgs/ta-0.7.0-pyhd8ed1ab_1.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/ta-0.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/ta-0.7.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f4be1f16528123c4f41c55b91d52b7c07c12022f6acd75a7c4b3e461434600f0",
+        "sha256_in_prefix": "f4be1f16528123c4f41c55b91d52b7c07c12022f6acd75a7c4b3e461434600f0",
+        "size_in_bytes": 1096
+      },
+      {
+        "_path": "site-packages/ta-0.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e648139338958f5169e7f4e03f290c6a41b716d65b8357f211656d89cde0aba2",
+        "sha256_in_prefix": "e648139338958f5169e7f4e03f290c6a41b716d65b8357f211656d89cde0aba2",
+        "size_in_bytes": 1079
+      },
+      {
+        "_path": "site-packages/ta-0.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "fba0a996fe622f67c8ecdc3b508d18d3cbbfe07878e07ac6021b7fdded5e753a",
+        "sha256_in_prefix": "fba0a996fe622f67c8ecdc3b508d18d3cbbfe07878e07ac6021b7fdded5e753a",
+        "size_in_bytes": 1519
+      },
+      {
+        "_path": "site-packages/ta-0.7.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ta-0.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/ta-0.7.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "422e586500a35e2d9563e8e3887df58cbf8c02d0eae43287ac90c2bc27b61282",
+        "sha256_in_prefix": "422e586500a35e2d9563e8e3887df58cbf8c02d0eae43287ac90c2bc27b61282",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "site-packages/ta-0.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "84de27db59ed9398d621a01401cce9b6c3aeff3f2cfb6c1b28d405c0560cb159",
+        "sha256_in_prefix": "84de27db59ed9398d621a01401cce9b6c3aeff3f2cfb6c1b28d405c0560cb159",
+        "size_in_bytes": 3
+      },
+      {
+        "_path": "site-packages/ta/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "afd6bac383e982dbb6a9035dfeaa5d6d512234f8c18300092e4935f3c4125391",
+        "sha256_in_prefix": "afd6bac383e982dbb6a9035dfeaa5d6d512234f8c18300092e4935f3c4125391",
+        "size_in_bytes": 534
+      },
+      {
+        "_path": "site-packages/ta/momentum.py",
+        "path_type": "hardlink",
+        "sha256": "08a49349cbb1adf8145ff8dfa8b373b09d2f0ebe9b30f50ee44478556872e190",
+        "sha256_in_prefix": "08a49349cbb1adf8145ff8dfa8b373b09d2f0ebe9b30f50ee44478556872e190",
+        "size_in_bytes": 44983
+      },
+      {
+        "_path": "site-packages/ta/others.py",
+        "path_type": "hardlink",
+        "sha256": "9b4467a66106a21638f49a5d33f8382b9e41407c909ef06948d65843229dc1ef",
+        "sha256_in_prefix": "9b4467a66106a21638f49a5d33f8382b9e41407c909ef06948d65843229dc1ef",
+        "size_in_bytes": 3555
+      },
+      {
+        "_path": "site-packages/ta/trend.py",
+        "path_type": "hardlink",
+        "sha256": "64fcc0b7fc46b6082bf3292ed5ec5c25536010a1bdc4a8a480c48f6046d86d27",
+        "sha256_in_prefix": "64fcc0b7fc46b6082bf3292ed5ec5c25536010a1bdc4a8a480c48f6046d86d27",
+        "size_in_bytes": 59520
+      },
+      {
+        "_path": "site-packages/ta/utils.py",
+        "path_type": "hardlink",
+        "sha256": "e8b4fd4093c056b38d07d90305214f5ee11c4e3936030a1eee3c7ab40784cb45",
+        "sha256_in_prefix": "e8b4fd4093c056b38d07d90305214f5ee11c4e3936030a1eee3c7ab40784cb45",
+        "size_in_bytes": 2535
+      },
+      {
+        "_path": "site-packages/ta/volatility.py",
+        "path_type": "hardlink",
+        "sha256": "2fcbf39c775e7e8446eba9bae3bb897681ded533f2b991e86974bf654934a8a2",
+        "sha256_in_prefix": "2fcbf39c775e7e8446eba9bae3bb897681ded533f2b991e86974bf654934a8a2",
+        "size_in_bytes": 32895
+      },
+      {
+        "_path": "site-packages/ta/volume.py",
+        "path_type": "hardlink",
+        "sha256": "3f23e783f57e0eabd8ee18116e5783d1c22c02065d129645b1c78fdbf2e203ea",
+        "sha256_in_prefix": "3f23e783f57e0eabd8ee18116e5783d1c22c02065d129645b1c78fdbf2e203ea",
+        "size_in_bytes": 23795
+      },
+      {
+        "_path": "site-packages/ta/wrapper.py",
+        "path_type": "hardlink",
+        "sha256": "9e0556ad384b43783a3dee655d6378571175b30d7e275883e2e828543e41322b",
+        "sha256_in_prefix": "9e0556ad384b43783a3dee655d6378571175b30d7e275883e2e828543e41322b",
+        "size_in_bytes": 17716
+      },
+      {
+        "_path": "lib/python3.9/site-packages/ta/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/ta/__pycache__/momentum.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/ta/__pycache__/others.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/ta/__pycache__/trend.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/ta/__pycache__/utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/ta/__pycache__/volatility.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/ta/__pycache__/volume.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/ta/__pycache__/wrapper.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "ta",
+  "sha256": "032d4ad193e13639516bd409ac03a1c77693a429fb4ac10c26daead71af42282",
+  "size": 1662737,
+  "subdir": "noarch",
+  "timestamp": 1612969466888,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/ta-0.7.0-pyhd8ed1ab_1.tar.bz2",
+  "version": "0.7.0"
+}

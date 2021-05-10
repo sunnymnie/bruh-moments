@@ -14,7 +14,8 @@ A filter that can spot promising alt-coins or a model that can predict alt-coin 
     - If yes: learn to use them
     - If yes or no: aim to make some technical indicators by hand (especially those that are more obscure, such as logarithmic-growth)
 4. Create a price-analyzer program. Regard to information about this project below
-5. Create scikit-learn model based on dataset from price-analyzer program. 
+5. Learn time series data prediction with Scikit-learn module on regression + start data exploratory phase
+6. Create scikit-learn model based on dataset from price-analyzer program. 
 
 
 ### Price analyzer program
@@ -46,8 +47,44 @@ Will probably go with Binance. If it works I'm probably not going to test others
 
 [where to get past crypto data](https://fxgears.com/index.php?threads/how-to-acquire-free-historical-tick-and-bar-data-for-algo-trading-and-backtesting-in-2020-stocks-forex-and-crypto-currency.1229/#post-19305)
 
+Ran code:
+`pip3 install python-binance`
+
+
 
 ### 2. Technical analysis 
 
+Using technical analysis [package](https://github.com/bukosabino/ta) `conda install -c conda-forge ta`
+
+Plan: Given that 'all indicators' method is broken, I will have to add each one individually. The first few I will add will be ones that (1) Are covered in Coin Bureau's indicators list, (2) exists in the library. + I get to learn the data. 
+
+[ta documentation](https://technical-analysis-library-in-python.readthedocs.io/en/latest/ta.html)
+
+[ta github](https://github.com/bukosabino/ta)
+
 #### Sources to research:
 - [Coin Bureau](https://www.youtube.com/watch?v=lW3eWIj3Q04)
+- [the trading channel](https://www.youtube.com/watch?v=eynxyoKgpng)
+
+DONE above researching
+
+### 3. Add technical analysis to time-series-data
+
+Done adding technical analysis data. Csvs with technical analysis are named "...-features.csv". 
+
+### 4. Create price-analyzer side project
+
+Skip. Current implementation presents all indicators without UI. Plus this project is flawed in the beginning as it assums I can find the best weights and balances to make meaning from technical analysis. 
+
+### 5. Start and finish regression module + work on data exploratory side-projects
+
+End goal: Finish and understand the regression module at the same time when all data exploratory side-projects are finished. 
+Data exploratory side-projects include the correlation matrix, matplotlib feature and target comparision, etc. 
+
+### 6. Create ML regression (or classification group)
+
+[interesting reddit comment strategy](https://www.reddit.com/r/algotrading/comments/ipa112/what_target_do_your_algo_aim_to_predict_price/)
+
+
+
+
