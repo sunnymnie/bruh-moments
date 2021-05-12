@@ -87,4 +87,6 @@ Data exploratory side-projects include the correlation matrix, matplotlib featur
 
 
 
+### Need to do:
+- Need to create correlation matrix for all available indicators, pick the highest abs(correlation) and create variations and create ml algos to work on versions of those and analyze feature importance and pick highest (also forward test on Jan 2021 + data (don't train on those))
 

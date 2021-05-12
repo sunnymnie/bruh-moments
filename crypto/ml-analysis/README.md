@@ -87,4 +87,16 @@ Data exploratory side-projects include the correlation matrix, matplotlib featur
 
 
 
+### Need to do:
+- Need to create correlation matrix for all available indicators, pick the highest abs(correlation) and create variations and create ml algos to work on versions of those and analyze feature importance and pick highest (also forward test on Jan 2021 + data (don't train on those))
 
+### Technical indicators
+- https://www.youtube.com/watch?v=9_Bs5R66NxY
+- bull flag. up then slight pullback with decrease in selling volume. if selling is high = price correction. 
+    - pole starts as dip in uptrend
+    - usual gain: bottom of pole to top of pole distance
+- falling wedge: gain price = largest movement in price of wedge on leftest side
+- W and M patterns, w is bullish
+- fib retracement
+- btc dominance
+- 
