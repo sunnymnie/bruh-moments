@@ -1,4 +1,7 @@
-# Machine Learning - Analysis
+# Machine Learning - Analysis (OUTDATED)
+The project is continued [here](https://github.com/sunnymnie/bitcoin-printer)
+
+## Past info:
 A mixture of small projects culminating in a possible classification / regression Scikit-Learn model that, given inputs of % matches to technical indicators, produce price prediction
 
 ## Month-end goal (May 31st):
